@@ -238,7 +238,7 @@ PS : Les LSB ont été calculé pour une disposition ortho, donc les résultats 
 
 ## Autres aspects intéressants d'ErgEAU
 
-- ErgEAU est relativement bon pour le japonais (cf. [Japonais](./japonais.md))
+- ErgEAU est relativement bon pour le japonais (cf. [Japonais](./Japonais.md))
 - ErgEAU est également assez bon dans les langues latines étant donnée la proximité avec le français
 - ErgEAU est globalement potable dans les autres langues étant donnée la séparation voyelles-consonnes qui empêche SFB consonne/voyelle et les redirections
 - le SKB est minime sur tous les doigts sauf l'index gauche en français (< 0.07%), et en anglais ils sont concentrés sur les deux index
