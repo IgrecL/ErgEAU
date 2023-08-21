@@ -1,7 +1,7 @@
-name: "Ergo-YL"
+name: "ErgEAU"
 locale: "fr"
 description: "French-English keyboard"
-url: "https://github.com/IgrecL/ergo-yl"
+url: "https://github.com/IgrecL/ErgEAU"
 geometry: "ANSI"
 
 base: |
