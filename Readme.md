@@ -2,7 +2,7 @@
 
 ## Introduction
 
-ErgEAU est une disposition de clavier qui se veut être optimale pour le français et l'anglais. Elle est conçue pour les claviers ISO/ANSI/JIS (tous les claviers standard), mais fonctionne aussi sur les claviers orthogonaux à condition d'avoir deux touches à droite de l'auriculaire droit.
+ErgEAU est une disposition de clavier qui se veut être optimale pour le français et l'anglais. Elle est conçue pour les claviers ISO/ANSI/JIS (tous les claviers standard), mais fonctionne aussi sur les claviers orthogonaux à condition d'avoir deux touches à droite de l'auriculaire droit. ErgEAU est également assez bon (bien meilleur qu'Azerty en tout cas) en espagnol, en japonais et dans la plupart des langues latines étant donnée la proximité avec le français.
 
 ![ErgEAU](./images/ErgEAU.png)
 
@@ -255,7 +255,6 @@ Le SFB reste le même, mais le SKB augmente énormément sur l'index gauche avec
 
 ## Autres aspects intéressants d'ErgEAU
 
-- ErgEAU est assez bon (bien meilleur qu'Azerty en tout cas) en [espagnol](./images/Espagnol.png), en [japonais](./Japonais.md) et dans la plupart des langues latines étant donnée la proximité avec le français
 - ErgEAU est globalement potable dans les autres langues étant donnée la séparation voyelles-consonnes qui empêche SFB consonne/voyelle et les redirections
 - le SKB est minime sur tous les doigts sauf l'index gauche en français (< 0.07%), et en anglais ils sont concentrés sur les deux index
 - le placement de U est optimal car c'est la voyelle qui intéragit le moins avec , et .
