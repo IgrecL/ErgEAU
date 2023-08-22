@@ -43,11 +43,11 @@ Il est plus de 10 fois meilleur qu'Azerty et Lafayette sur cet aspect.
 
 | Layout    | FR    | EN    | FR-EN | Compa |
 |-----------|-------|-------|-------|-------|
-| ErgEAU    | 0.38% | 0.87% | 0.63% | ×1.00 |
+| ErgEAU    | 0.39% | 0.86% | 0.63% | ×1.00 |
 | Optim7    | 0.70% | 1.38% | 1.06% | ×1.68 |
 | Optimot   | 0.84% | 1.57% | 1.22% | ×1.94 |
 | ErgoL     | 1.36% | 1.39% | 1.37% | ×2.17 |
-| Bépo      | 2.43% | 2.97% | 2.71% | ×4.30 |
+| Bépo      | 2.55% | 3.02% | 2.80% | ×4.44 |
 | Lafayette | 6.83% | 5.96% | 6.32% | ×10.3 |
 | Azerty    | 7.19% | 6.29% | 6.72% | ×10.7 |
 
@@ -57,15 +57,15 @@ Certains trigrammes (enchaînements de 3 lettres) se font dans on ordre qui fait
 
 ErgEAU cherche à minimiser le plus possible ces redirections, et y arrive également mieux que ses concurrents. 
 
-| Layout    | FR    | EN    | FR-EN | Compa |
-|-----------|-------|-------|-------|-------|
-| ErgEAU    | 2.2%  | 2.1%  | 2.1%  | ×1.00 |
-| Optim7    | 2.2%  | 2.6%  | 2.4%  | ×1.14 |
-| Optimot   | 2.6%  | 3.4%  | 3.0%  | ×1.43 |
-| Bépo      | 3.4%  | 3.1%  | 3.2%  | ×1.52 |
-| Azerty    | 9.2%  | 11.1% | 10.2% | ×4.86 |
-| ErgoL     | 9.0%  | 11.4% | 10.3% | ×4.90 |
-| Lafayette | 8.2%  | 12.5% | 10.4% | ×4.95 |
+| Layout    | FR    | EN    | FR-EN |
+|-----------|-------|-------|-------|
+| ErgEAU    | 2.4%  | 2.2%  | 2.3%  |
+| Optim7    | 2.2%  | 2.6%  | 2.4%  |
+| Optimot   | 2.6%  | 3.4%  | 3.0%  |
+| Bépo      | 3.4%  | 3.1%  | 3.2%  |
+| Azerty    | 9.2%  | 11.1% | 10.2% |
+| ErgoL     | 9.0%  | 11.4% | 10.3% |
+| Lafayette | 8.2%  | 12.5% | 10.4% |
 
 ### Redirections hors index (Bad Redirects)
 
@@ -85,7 +85,7 @@ ErgEAU est très bon sur ce point également, seul Optimot fait mieux mais de ma
 
 PS : Ces statistiques sont à prendre avec des pincettes car ils ont été réalisés avec [oxey](https://o-x-e-y.github.io/layouts/playground/index.html), qui ne permet pas de mettre toutes les lettres comme prévues (en plus d'être fait pour les claviers ortho). Q, W, K et Z sont omises en français, et Q, J, X et Z en anglais.
 
-Encore pire, les bad redirects qui ont un roulement extérieur sur l'annulaire et l'auriculaire ("sad" en Azerty, ou "rui" en ErgoLv5). ErgEAU en comporte très très peux : "eye" (0.011%) et "eyo" (0.002%)
+Encore pire, les bad redirects qui ont un roulement extérieur sur l'annulaire et l'auriculaire ("sad" en Azerty, ou "rui" en ErgoLv5). ErgEAU en comporte très très peu : "eye" (0.011%) et "eyo" (0.002%)
 
 ### Roulements de digrammes (Rolls)
 
@@ -101,13 +101,13 @@ De plus, les roulements vers l'intérieur du clavier sont généralement consid�
 | Lafayette | 18.1% 19.0% | 18.5% 18.2% | 18.3% 18.6% | 36.9% |
 | Azerty    | 18.8% 18.6% | 18.4% 17.2% | 18.6% 17.9% | 36.5% |
 | Optimot   | 15.7% 10.5% | 14.1% 13.8% | 14.8% 12.2% | 27.0% |
-| ErgEAU    | 13.0% 14.4% | 11.5% 14.3% | 12.3% 14.3% | 26.6% |
+| ErgEAU    | 13.1% 12.8% | 11.6% 14.1% | 12.3% 13.5% | 25.8% |
 | Bépo      | 15.3% 9.1%  | 13.9% 12.0% | 14.6% 10.6% | 25.2% |
 | Optim7    | 13.4% 10.7% | 16.0% 9.7%  | 14.7% 10.2% | 24.9% |
 
 ### Répartition des touches (heatmap) 
 
-La heatmap d'ErgEAU est meilleure que celles d'Optimot et Optim7 et à peu près équivalente à celle d'ErgoL :
+La heatmap d'ErgEAU est meilleure que celles d'Optimot et Optim7 et à peu près équivalente à celle d'ErgoL (en plus d'avoir é et è directement accessibles) :
 
 ![Heatmap ErgEAU](./images/HeatmapErgEAU.png)
 
@@ -135,18 +135,18 @@ L'ordre de placement des lettres suit relativement bien l'ordre décroissant des
 | 1.6 | I | 5  | 7  | 7  |
 | 1.6 | R | 7  | 9  | 8  |
 | 1.8 | H | 20 | 5  | 11 |
-| 1.8 | D | 11 | 10 | 12 |
+| 1.8 | P | 15 | 21 | 16 |
 | 2.0 | L | 10 | 11 | 10 |
 | 2.1 | O | 9  | 4  | 6  |
-| 2.2 | P | 15 | 21 | 16 |
+| 2.2 | D | 11 | 10 | 12 |
 | 2.2 | F | 21 | 14 | 17 |
-| 2.2 | , | 16 | 17 | 15 |
+| 2.2 | Q | 19 | 27 | 24 |
 | 2.3 | * | 13 | 20 | 18 |
 | 2.4 | C | 12 | 15 | 13 |
 | 2.4 | M | 14 | 13 | 14 |
 | 2.4 | É | 18 | 30 | 25 |
 | 2.5 | È | 27 | 31 | 30 |
-| 2.6 | Q | 19 | 27 | 24 |
+| 2.6 | , | 16 | 17 | 15 |
 | 2.7 | G | 22 | 18 | 19 |
 | 2.9 | V | 17 | 23 | 20 |
 | 2.9 | . | 25 | 25 | 26 |
@@ -186,7 +186,7 @@ Pour comparer aux autres dispositions, on calcule la somme des SKB sur les auric
 |-----------|-------|-------|-------|
 | ErgoL     | 0.09% | 0.10% | 0.10% |
 | Lafayette | 0.12% | 0.11% | 0.12% |
-| ErgEAU    | 0.22% | 0.16% | 0.19% |
+| ErgEAU    | 0.22% | 0.15% | 0.19% |
 | Optimot   | 0.28% | 0.18% | 0.23% |
 | Azerty    | 0.37% | 0.14% | 0.26% |
 | Optim7    | 0.30% | 0.24% | 0.27% |
@@ -256,7 +256,7 @@ Le SFB reste le même, mais le SKB augmente énormément sur l'index gauche avec
 ## Autres aspects intéressants d'ErgEAU
 
 - ErgEAU est globalement potable dans les autres langues étant donnée la séparation voyelles-consonnes qui empêche SFB consonne/voyelle et les redirections
-- le SKB est minime sur tous les doigts sauf l'index gauche en français (< 0.07%), et en anglais ils sont concentrés sur les deux index
+- le SKB est minime sur tous les doigts sauf l'index gauche en français (< 0.1%), et en anglais ils sont concentrés sur les deux index
 - le placement de U est optimal car c'est la voyelle qui intéragit le moins avec , et .
 - I étant aussi à son emplacement optimal pour la charge de l'auriculaire, seuls IEAU et IAEU semblent fiables, mais IEAU offre de meilleures statistiques de redirections et roulements en ANSI
 
@@ -264,7 +264,9 @@ Le SFB reste le même, mais le SKB augmente énormément sur l'index gauche avec
 
 - on aurait envie de mettre W à la place de J car c'est une lettre plus importante dans le corpus d'Ergol, mais c'est expliqué [ici](https://github.com/IgrecL/ergeau#corpus-sms) pourquoi J est plus important que W
 - mettre À sous E augmente la charge de l'annulaire en plus de donner une mauvaise position à E, et puisque rien ne va avec E il vaut mieux mettre un symbole rare tel que "
-- l'inversions Z <-> J fait gagner 0.01% de SFB en français mais est moins bonne pour la répartition
 - il est possible de mettre Z sur la touche au-dessus de X pour libérer une place pour ', mais cela rend les enchaînements moins pratique qu'avec la lettre morte
 - IEAU TNSR semble optimal pour les redictions et les roulements je n'ai pas réussi à faire mieux en ANSI
+- l'inversions Z <-> J fait gagner 0.01% de SFB en français mais est moins bonne pour la répartition
 - l'inversion , <-> . car même si le . sert plus en programmation, la touche , a également ? et ! donc elle est plus importante
+- l'inversion Q <-> , semble plus logique niveau importance des lettres mais étant donnés tous les roulements avec Qu c'est mieux ici (et ça réduit les LSB vu que Q n'est plus vraiment dans le bloc central grâce au décalage de la ligne du bas)
+- l'inversion D <-> P est de prime abord meilleure vis-à-vis de l'importance des touches, mais ce placement permet d'avoir "mp" et "ld" plus facilement et on ne perd pas la facilité de frappe de "pl" grâce au fait que ANSI est staggered

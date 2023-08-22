@@ -47,7 +47,7 @@
     "Equal": [ "=", "+" ],
     "BracketLeft": [ "[", "{" ],
     "BracketRight": [ "]", "}" ],
-    "Quote": [ "'", "\"", "*´", "*¨" ],
+    "Quote": [ "’", "\"", "*´", "*¨" ],
     "Backquote": [ "`", "~", "*`", "*~" ],
     "Backslash": [ "\\", "|" ],
     "IntlBackslash": [ "<", ">" ],
