@@ -148,7 +148,7 @@ comment vous pourrez procéder en toute sûreté. Vous faut-il un géant?
 prenez-moi Goliath, et avec lui vous avez un commentaire tout fait; vous
 direz: Le géant Golias ou Goliath était un Philistin que le berger David
 tua d’un coup de fronde dans la vallée de Térébinthe, ainsi qu’il est
-écrit au _Livre des Rois_, chapitre..... Voulez-vous faire une excursion
+écrit au _Livre des Rois_ chapitre..... Voulez-vous faire une excursion
 dans le domaine des sciences, en géographie, par exemple? eh bien,
 arrangez-vous pour parler du Tage, et vous avez là une magnifique
 période! Dites: Le fleuve du Tage fut ainsi nommé par un ancien roi des
@@ -161,7 +161,7 @@ Mondonedo[6] vous fournira des Samies, des Laïs, des Flores. S’agit-il
 de démons femelles? Ovide vous offre sa Médée. Sont-ce des magiciennes
 ou enchanteresses? vous avez Calypso dans Homère et Circé dans Virgile.
 En fait de grands capitaines, Jules César se peint lui-même dans ses
-_Commentaires_, et Plutarque vous fournira mille Alexandre. Enfin si
+_Commentaires_ et Plutarque vous fournira mille Alexandre. Enfin si
 vous avez à traiter de l’amour, avec deux onces de langue italienne,
 Léon Hébreu[7] vous donnera pleine mesure; et s’il vous répugne de
 recourir à l’étranger, nous avons en Espagne le Traité de Fonseca sur
@@ -222,13 +222,13 @@ UN MOT SUR CETTE NOUVELLE TRADUCTION
 
 Comme Homère, comme Virgile, Dante, Shakespeare, Cervantes, a eu un
 grand nombre de traducteurs; et cependant après tant d’essais, le
-chef-d’œuvre de cet immortel écrivain _Don Quichotte_, en un mot, est
+chef-d’œuvre de cet immortel écrivain _Don Quichotte_ en un mot, est
 encore et restera toujours à traduire.
 
 Notre admiration pour Cervantes et pour la chevaleresque patrie qui l’a
 vu naître nous a depuis longtemps inspiré le désir et fait prendre la
 résolution de tenter cette périlleuse aventure. Aussi, pour nous y
-préparer, avons-nous lu et relu l’inimitable roman de _Gil Blas_, ce
+préparer, avons-nous lu et relu l’inimitable roman de _Gil Blas_ ce
 modèle accompli de l’art du conteur.
 
 Dans les lettres, obscur ouvrier de la onzième heure, nous n’avons pas
@@ -271,11 +271,11 @@ s’écarte en aucun point de l’exacte vérité.
   [8] Argamasilla de Alba; on y montre encore une antique maison où la
   tradition locale place la prison de Cervantes.
 
-  [9] _Olla_, pot-au-feu.
+  [9] _Olla_ pot-au-feu.
 
   [10] En Espagne, le bœuf est moins estimé que le mouton.
 
-  [11] _Salpicon_, saupiquet, émincé de viande avec une sauce qui excite
+  [11] _Salpicon_ saupiquet, émincé de viande avec une sauce qui excite
   l’appétit.
 
 Or, il faut savoir que dans ses moments de loisir, c’est-à-dire à peu
@@ -515,7 +515,7 @@ du chemin qu’il suivait, une auberge isolée, laquelle brilla à ses yeux
 comme une étoile qui allait le conduire au port du salut. Pressant le
 pas de son cheval, il y arriva comme le jour finissait.
 
-  [16] En Espagne, on appelle _puerto_, port, un col ou passage dans les
+  [16] En Espagne, on appelle _puerto_ port, un col ou passage dans les
   montagnes.
 
 Sur la porte en ce moment prenaient leurs ébats deux de ces donzelles
@@ -854,11 +854,11 @@ demeurait obligé d’une si grande faveur. Elle répondit qu’elle
 s’appelait la Tolosa, que son père était fripier à Tolède, dans les
 échoppes de Sancho Benaya, et qu’en tout temps, en tout lieu et à toute
 heure, elle serait sa très-humble servante. Notre héros la pria, pour
-l’amour de lui, de prendre à l’avenir le _don_, et de s’appeler dona
+l’amour de lui, de prendre à l’avenir le _don_ et de s’appeler dona
 Tolosa, ce qu’elle promit de faire. L’autre lui ayant chaussé l’éperon,
 il lui demanda également son nom: elle répondit qu’elle s’appelait la
 Molinera, et qu’elle était fille d’un honnête meunier d’Antequerra.
-Ayant obtenu d’elle pareille promesse de prendre le _don_, et de
+Ayant obtenu d’elle pareille promesse de prendre le _don_ et de
 s’appeler à l’avenir dona Molinera, il lui réitéra ses remercîments et
 ses offres de service.
 
@@ -1165,7 +1165,7 @@ quelque rapport à son aventure. Oubliant Baudouin, il vint à se rappeler
 tout à coup le Maure Abendarraez, quand le gouverneur d’Antequerra,
 Rodrigue de Narvaez, l’emmène prisonnier; de sorte qu’il se mit à
 débiter mot pour mot ce que l’Abencerrage répond à don Rodrigue dans la
-_Diane de Montemayor_, et en s’appliquant si bien tout ce fatras, qu’il
+_Diane de Montemayor_ et en s’appliquant si bien tout ce fatras, qu’il
 était difficile d’entasser plus d’extravagances. Convaincu que son
 voisin était tout à fait fou, le laboureur pressa le pas afin d’abréger
 l’ennui que lui causait cette interminable harangue.
@@ -1307,7 +1307,7 @@ mérite qu’on lui pardonne.
 
 Pour l’heure, dit le curé, on lui fait grâce. Voyons ce qui suit.
 
-Ce sont, reprit le barbier, _les Prouesses d’Esplandian_, fils légitime
+Ce sont, reprit le barbier, _les Prouesses d’Esplandian_ fils légitime
 d’Amadis de Gaule.
 
 Le fils n’approche pas du père, dit le curé; tenez, dame gouvernante,
@@ -1319,11 +1319,11 @@ cour attendre le supplice qu’il méritait.
 
 Passons, continua le curé.
 
-Voici _Amadis de Grèce_, dit maître Nicolas, et je crois que tous ceux
+Voici _Amadis de Grèce_ dit maître Nicolas, et je crois que tous ceux
 de cette rangée sont de la même famille.
 
 Qu’ils prennent le chemin de la cour, reprit le curé; car, plutôt que
-d’épargner la reine _Pintiquiniestre_ et le berger _Danirel_, avec tous
+d’épargner la reine _Pintiquiniestre_ et le berger _Danirel_ avec tous
 leurs propos quintessenciés, je crois que je brûlerais avec eux mon
 propre père, s’il se présentait sous la figure d’un chevalier errant.
 
@@ -1337,21 +1337,21 @@ pêle-mêle par la fenêtre.
 
 Quel est ce gros volume? demanda le curé.
 
-_Don Olivantes de Laura_, répondit maître Nicolas.
+_Don Olivantes de Laura_ répondit maître Nicolas.
 
-Il est du même auteur que le _Jardin de Flore_, reprit le curé, mais je
+Il est du même auteur que le _Jardin de Flore_ reprit le curé, mais je
 ne saurais dire lequel des deux est le moins menteur; dans tous les cas,
 celui-ci s’en ira dans la cour à cause des extravagances dont il
 regorge.
 
-Cet autre est _Florismars d’Hircanie_, dit le barbier.
+Cet autre est _Florismars d’Hircanie_ dit le barbier.
 
 Quoi! le seigneur Florismars est ici? s’écria le curé; eh bien, qu’il se
 dépêche de suivre les autres, en dépit de son étrange naissance et de
 ses incroyables aventures. La rudesse et la pauvreté de son style ne
 méritent pas un meilleur traitement.
 
-Voici _le Chevalier Platir_, dit maître Nicolas.
+Voici _le Chevalier Platir_ dit maître Nicolas.
 
 C’est un vieux livre fort insipide, reprit le curé, et qui ne contient
 rien qui lui mérite d’être épargné: à la cour! dame gouvernante, et
@@ -1362,7 +1362,7 @@ Croix_. Un nom si saint devrait lui faire trouver grâce, dit le curé;
 mais n’oublions pas le proverbe: Derrière la croix se tient le diable.
 Qu’il aille au feu!
 
-Voici _le Miroir de la Chevalerie_, dit le barbier.
+Voici _le Miroir de la Chevalerie_ dit le barbier.
 
 Ah! ah! j’ai l’honneur de le connaître, reprit le curé. Nous avons là
 Renaud de Montauban avec ses bons amis et compagnons, tous plus voleurs
@@ -1374,7 +1374,7 @@ dernier, si je le rencontre ici parlant une autre langue que la sienne,
 qu’il ne s’attende à aucune pitié; mais s’il parle son idiome natal,
 accueillons-le avec toutes sortes d’égards.
 
-  [22] Boyardo est auteur de _Roland amoureux_, et l’Arioste de _Roland
+  [22] Boyardo est auteur de _Roland amoureux_ et l’Arioste de _Roland
   furieux_.
 
 Moi, je l’ai en italien, dit le barbier, mais je ne l’entends point.
@@ -1397,7 +1397,7 @@ gouvernante.
 De tout cela, maître Nicolas demeura d’accord sur la foi du curé, qu’il
 connaissait homme de bien et si grand ami de la vérité, que pour tous
 les trésors du monde il n’aurait pas voulu la trahir. Il ouvrit deux
-autres livres: l’un était _Palmerin d’Olive_, et l’autre _Palmerin
+autres livres: l’un était _Palmerin d’Olive_ et l’autre _Palmerin
 d’Angleterre_.
 
 Qu’on brûle cette olive, dit le curé, et qu’on en jette les cendres au
@@ -1436,10 +1436,10 @@ titre: _Histoire du fameux Tirant-le-Blanc_.
 Comment! s’écria le curé, vous avez là _Tirant-le-Blanc_? Donnez-le
 vite, seigneur compère, car c’est un trésor d’allégresse et une source
 de divertissement! C’est là qu’on rencontre le chevalier _Kyrie Eleison
-de Montalban_ et _Thomas de Montalban_, son frère, avec le chevalier de
+de Montalban_ et _Thomas de Montalban_ son frère, avec le chevalier de
 _Fonseca_; le combat du valeureux _Detriant_ contre le dogue; les
 finesses de la demoiselle _Plaisir de ma vie_; les amours et les ruses
-de la _veuve Tranquille_, et l’impératrice amoureuse de son écuyer.
+de la _veuve Tranquille_ et l’impératrice amoureuse de son écuyer.
 C’est pour le style le meilleur livre du monde: les chevaliers y
 mangent, y dorment, y meurent dans leur lit après avoir fait leur
 testament, et mille autres choses qui ne se rencontrent guère dans les
@@ -1472,7 +1472,7 @@ supprimer ce qui traite de la sage Félicie et de l’eau enchantée,
 c’est-à-dire presque tous les vers, on peut lui laisser, à cause de sa
 prose, l’honneur d’être le premier entre ces sortes d’ouvrages.
 
-Voici _la Diane_, appelée la seconde, du Salmentin, dit le barbier; puis
+Voici _la Diane_ appelée la seconde, du Salmentin, dit le barbier; puis
 une autre dont l’auteur est Gilles Pol.
 
 Que celle du Salmentin augmente le nombre des condamnés, reprit le curé;
@@ -1480,7 +1480,7 @@ mais gardons _la Diane_ de Gilles Pol, comme si Apollon lui-même en
 était l’auteur. Passons outre, seigneur compère, ajouta-t-il, et
 dépêchons, car il se fait tard.
 
-Voici les dix livres de _la Fortune d’amour_, composés par Antoine de
+Voici les dix livres de _la Fortune d’amour_ composés par Antoine de
 l’Ofrase, poëte de Sardaigne, dit le barbier.
 
 Par les ordres que j’ai reçus! reprit le curé, depuis qu’on parle
@@ -1490,7 +1490,7 @@ l’a point lu peut dire qu’il n’a jamais rien lu d’amusant.
 Donnez-le-moi, seigneur compère; aussi bien je le préfère à une soutane
 du meilleur taffetas de Florence.
 
-Ceux qui suivent, continua le barbier, sont _le Berger d’Ibérie_, _les
+Ceux qui suivent, continua le barbier, sont _le Berger d’Ibérie_ _les
 Nymphes d’Hénarès_ et _le Remède à la jalousie_.
 
 Livrez tout cela à la gouvernante, dit le curé; et qu’on ne m’en demande
@@ -1518,7 +1518,7 @@ ses églogues, mais une bonne chose n’est jamais trop longue. Il faut le
 mettre avec les réservés. Et celui qui est là tout auprès, comment
 s’appelle-t-il?
 
-C’est _la Galatée de Michel Cervantes_, répondit maître Nicolas.
+C’est _la Galatée de Michel Cervantes_ répondit maître Nicolas.
 
 Il y a longtemps que ce Cervantes est de mes amis, reprit le curé, et
 l’on sait qu’il est encore plus célèbre par ses malheurs que par ses
@@ -1528,12 +1528,12 @@ réussira-t-il mieux et méritera-t-il l’indulgence qu’on refuse à la
 première.
 
   [24] Cervantes renouvela peu de jours avant sa mort, dans la préface
-  de _Persiles et Sigismonde_, la promesse de donner cette seconde
+  de _Persiles et Sigismonde_ la promesse de donner cette seconde
   partie de la _Galatée_. Elle ne fut point trouvée parmi ses écrits.
 
 Que sont ces trois volumes? demanda le barbier. _L’Araucana, de don
-Alonzo de Hercilla_, _l’Austriada de Juan Rufo, jurat de Cordoue_, et
-_le Montserrat de Christoval de Viruez_, poëte valencien.
+Alonzo de Hercilla_ _l’Austriada de Juan Rufo, jurat de Cordoue_ et
+_le Montserrat de Christoval de Viruez_ poëte valencien.
 
 Ces trois ouvrages, répondit le curé, renferment les meilleurs vers
 héroïques qu’on ait composés en espagnol, et ils peuvent aller de pair
@@ -1559,7 +1559,7 @@ grands cris: A moi, à moi, valeureux chevaliers! disait-il. C’est ici
 qu’il faut montrer la force de vos bras, sinon les gens de la cour vont
 remporter le prix du tournoi. Afin d’accourir au bruit, on abandonna
 l’inventaire des livres; aussi faut-il croire que si _la Carolea_ et
-_Léon d’Espagne_ s’en allèrent au feu avec _les Gestes de l’Empereur_,
+_Léon d’Espagne_ s’en allèrent au feu avec _les Gestes de l’Empereur_
 composés par Louis d’Avila, c’est qu’ils se trouvèrent à la merci de la
 gouvernante et de la nièce, mais à coup sûr ils eussent éprouvé un sort
 moins sévère si le curé eût encore été là.
@@ -1802,7 +1802,7 @@ Dieu le veuille, reprit Sancho en aidant son maître à remonter sur
 Rossinante, dont l’épaule était à demi déboîtée.
 
 Tout en devisant sur ce qui venait d’arriver, nos deux aventuriers
-prirent le chemin du _Puerto-Lapice_, parce qu’il était impossible,
+prirent le chemin du _Puerto-Lapice_ parce qu’il était impossible,
 affirmait don Quichotte, que sur une route aussi fréquentée on ne
 rencontrât pas beaucoup d’aventures. Seulement il regrettait sa lance,
 et le témoignant à son écuyer: J’ai lu quelque part, dit-il, qu’un
@@ -2055,8 +2055,8 @@ persistai à croire qu’une semblable histoire n’était point demeurée
 ainsi à moitié chemin, et que le temps seul, qui détruit tout, l’avait
 dévorée ou la tenait quelque part ensevelie. De plus, je me disais:
 Puisque dans la Bibliothèque de notre chevalier il y avait des livres
-modernes, tels que _le Remède à la jalousie_, _les Nymphes_, _le Berger
-de Hénarès_, elle ne doit pas être fort ancienne, et si elle n’a pas été
+modernes, tels que _le Remède à la jalousie_ _les Nymphes_ _le Berger
+de Hénarès_ elle ne doit pas être fort ancienne, et si elle n’a pas été
 écrite, on doit au moins la retrouver dans la mémoire des gens de son
 village et des pays circonvoisins.
 
@@ -2126,7 +2126,7 @@ Quichotte avec le Biscaïen, tous deux dans la posture où nous les avons
 laissés, le bras levé, l’épée nue, l’un couvert de sa rondache, l’autre
 abrité par son coussin. La mule du Biscaïen était d’une si grande
 vérité, qu’à portée d’arquebuse on l’aurait facilement reconnue pour une
-mule de louage: à ses pieds on lisait _don Sancho de Aspetia_, ce qui
+mule de louage: à ses pieds on lisait _don Sancho de Aspetia_ ce qui
 était sans doute le nom du Biscaïen. Aux pieds de Rossinante on lisait
 celui de _don Quichotte_. Rossinante est admirablement peint, long,
 roide, maigre, l’épine du dos si tranchante, et l’oreille si basse,
@@ -3852,7 +3852,7 @@ A la lueur de lampe, le muletier, voyant le péril où se trouvait sa
 dame, laisse don Quichotte pour voler à son aide; l’hôtelier y court
 aussi, mais dans une intention bien différente, car c’était pour châtier
 la servante, qu’il accusait du vacarme; et de même qu’on a coutume de
-dire _le chien au chat, le chat au rat_, le muletier tapait sur Sancho,
+dire _le chien au chat, le chat au rat_ le muletier tapait sur Sancho,
 Sancho sur Maritorne, Maritorne sur Sancho, l’hôtelier sur Maritorne; le
 tout si dru et si menu, qu’ils semblaient craindre que le temps ne leur
 manquât. Pour compléter l’aventure, la lampe s’éteignit; alors ce ne fut
@@ -4031,8 +4031,8 @@ bouillir le tout, et lorsque la composition lui parut à point, il
 demanda une bouteille; mais comme il n’y en avait point dans la maison,
 il dut se contenter d’une burette de fer-blanc qui servait à mettre
 l’huile, et dont l’hôtelier lui fit présent. Ensuite il récita sur la
-burette plus de cent _Pater Noster_, autant d’_Ave Maria_, de _Salve_ et
-de _Credo_, accompagnant chaque parole d’un signe de croix en manière de
+burette plus de cent _Pater Noster_ autant d’_Ave Maria_ de _Salve_ et
+de _Credo_ accompagnant chaque parole d’un signe de croix en manière de
 bénédiction. Sancho Panza, l’archer et l’hôtelier assistaient à cette
 cérémonie; car le muletier était en train de panser ses bêtes, sans
 avoir l’air d’avoir pris la moindre part aux aventures de la nuit.
@@ -5319,7 +5319,7 @@ librement que tu le fais; et, en cela, nous avons tort tous deux, toi,
 de n’avoir pas assez de respect pour moi, et moi, de ne pas me faire
 assez respecter. L’écuyer d’Amadis, Gandalin, qui devint comte de l’île
 Ferme, ne parlait jamais à son seigneur que le bonnet à la main, la tête
-baissée, et le corps incliné, _more turquesco_, à la manière des Turcs.
+baissée, et le corps incliné, _more turquesco_ à la manière des Turcs.
 Mais que dirons-nous de cet écuyer de don Galaor, Gasabal, lequel fut si
 discret que, pour instruire la postérité de son merveilleux silence,
 l’auteur ne le nomme qu’une seule fois dans cette longue et véridique
@@ -5539,7 +5539,7 @@ tu en aies un pressant besoin.
 Aussi pressant que si c’était pour moi-même, répondit Sancho.
 
 Là-dessus, usant de la permission de son maître, Sancho opéra l’échange
-du harnais, _mutatio capparum_, comme on dit, ajustant celui du barbier
+du harnais, _mutatio capparum_ comme on dit, ajustant celui du barbier
 sur son âne, qui lui en parut une fois plus beau, et meilleur de moitié.
 
 Cela fait, ils déjeunèrent des restes de leur souper, et burent de l’eau
@@ -5907,7 +5907,7 @@ condamné à six ans de galères, outre deux cents coups de fouet qui lui
 ont été comptés sur-le-champ. Si vous le voyez triste et confus, c’est
 que ses camarades le bafouent et le maltraitent pour n’avoir pas eu le
 courage de souffrir et de nier: car, entre eux, ils prétendent qu’il n’y
-a pas plus de lettres dans un _non_ que dans un _oui_, et qu’un accusé
+a pas plus de lettres dans un _non_ que dans un _oui_ et qu’un accusé
 est bien heureux de tenir son absolution au bout de sa langue, quand il
 n’y a pas de témoin contre lui. Franchement, je trouve qu’ils n’ont pas
 tout à fait tort.
@@ -6068,7 +6068,7 @@ si agréables, qu’il n’y a fables qui les vaillent.
 
 Et quel titre porte votre livre? poursuivit don Quichotte.
 
-_Vie de Ginez de Passamont_, répondit le forçat.
+_Vie de Ginez de Passamont_ répondit le forçat.
 
 Est-il achevé? dit notre héros.
 
@@ -6189,7 +6189,7 @@ afin de ne plus retomber entre les mains de la Sainte-Hermandad, qui,
 sans aucun doute, va envoyer à notre poursuite. Ce que doit faire Votre
 Grâce, et ce qui me paraît juste qu’elle fasse, c’est de commuer le
 tribut que nous devons à madame Dulcinée du Toboso en une certaine
-quantité d’_Ave Maria_ et de _Credo_, que nous dirons à son intention.
+quantité d’_Ave Maria_ et de _Credo_ que nous dirons à son intention.
 Voilà du moins une pénitence que nous pourrons accomplir facilement, de
 nuit comme de jour, en marche ou au repos. Mais penser que de gaieté de
 cœur nous allions retourner aux marmites d’Égypte, c’est-à-dire
@@ -8352,7 +8352,7 @@ Cardenio ne put s’empêcher de dire au curé: Puisque ce n’est point
 Luscinde, ce ne peut être une créature humaine; c’est quelque ange du
 ciel.
 
-  [47] _Montera_, espèce de casquette sans visière que portent les
+  [47] _Montera_ espèce de casquette sans visière que portent les
   paysans espagnols.
 
 En ce moment le jeune homme ayant ôté sa montera pour secouer sa
@@ -9494,7 +9494,7 @@ La sais-tu encore? dit don Quichotte.
 
 Non, seigneur, répondit Sancho; quand une fois je la vis écrite, je me
 mis à l’oublier, si quelque chose m’en est resté dans la mémoire, c’est
-le commencement, _la souterraine_, je veux dire _la souveraine dame_, et
+le commencement, _la souterraine_ je veux dire _la souveraine dame_ et
 la fin, _à vous jusqu’à la mort, le chevalier de la Triste-Figure_;
 entre tout cela j’avais mis plus de trois cents âmes, beaux yeux et
 m’amours.
@@ -9944,7 +9944,7 @@ et quelques manuscrits.
 
 Le curé prit les livres, et le premier qu’il ouvrit fut _don Girongilio
 de Thrace_; le second, _don Félix-Mars d’Hircanie_; et le dernier,
-_l’histoire du fameux capitaine Gonzalve de Cordoue_, avec la _Vie de
+_l’histoire du fameux capitaine Gonzalve de Cordoue_ avec la _Vie de
 don Diego Garcia de Paredès_. Après avoir vu le titre des deux premiers
 ouvrages, le curé se tourna vers le barbier en lui disant: Compère, il
 manque ici la nièce et la gouvernante de notre ami.
@@ -11712,7 +11712,7 @@ Dieu dans les hauteurs célestes, paix sur la terre aux hommes de bonne
 volonté._ Quel était le salut bienveillant que le divin maître du ciel
 et de la terre recommandait à ses disciples, quand ils entraient dans
 quelque lieu: _La paix soit dans cette maison_. Maintes fois il leur a
-dit: _Je vous donne ma paix, je vous laisse la paix_, comme le joyau le
+dit: _Je vous donne ma paix, je vous laisse la paix_ comme le joyau le
 plus précieux que pût donner et laisser une telle main, et sans lequel
 il ne saurait exister de bonheur ici-bas. Or, la paix est la fin que se
 propose la guerre, et qui dit la guerre dit les armes. Une fois cette
@@ -11734,7 +11734,7 @@ endurer en cette vie; car qui dit pauvre, dit exposé à la faim, au
 froid, à la nudité, et souvent à ces trois choses à la fois. Eh bien,
 l’étudiant n’est-il jamais si pauvre, qu’il ne puisse se procurer
 quelque chose à mettre sous la dent? ne rencontre-t-il pas le plus
-souvent quelque _brasero_, quelque cheminée hospitalière, où il peut,
+souvent quelque _brasero_ quelque cheminée hospitalière, où il peut,
 sinon se réchauffer tout à fait, au moins se dégourdir les doigts, et,
 quand la nuit est venue, ne trouve-t-il pas toujours un toit où se
 reposer? Je passe sous silence la pénurie de leur chaussure,
@@ -12017,14 +12017,14 @@ général qui commandait les nôtres. En effet, Uchali se retira à Modon,
 île voisine de Navarin; là, ayant mis ses troupes à terre, il fortifia
 l’entrée du port, et y resta jusqu’à ce que don Juan se fût éloigné.
 
-Ce fut dans cette campagne que notre bâtiment, appelé la _Louve_, monté
+Ce fut dans cette campagne que notre bâtiment, appelé la _Louve_ monté
 par ce foudre de guerre, ce père des soldats, cet heureux et invincible
 don Alvar de Bazan, marquis de Sainte-Croix, s’empara d’une galère que
 commandait un des fils du fameux Barberousse. Vous serez sans doute bien
 aise d’apprendre comment eut lieu ce fait de guerre. Ce fils de
 Barberousse traitait ses esclaves avec tant de cruauté, et en était
 tellement haï, que ceux qui ramaient sur sa galère, se voyant près
-d’être atteints par la _Louve_, qui les poursuivait vivement, laissèrent
+d’être atteints par la _Louve_ qui les poursuivait vivement, laissèrent
 en même temps tomber leurs rames, et, saisissant leur chef, qui criait
 du gaillard d’arrière de ramer avec plus de vigueur, le firent passer de
 banc en banc, de la poupe à la proue et en lui donnant tant de coups de
@@ -12215,13 +12215,13 @@ trouverais à Alger, plutôt qu’à Constantinople, quelque moyen de
 recouvrer ma liberté; car je ne perdais point l’espérance, et quand ce
 que j’avais projeté ne réussissait pas, je cherchais à m’en consoler en
 rêvant à d’autres moyens. Je passais ainsi ma vie, dans une prison que
-les Turcs appellent _bagne_, où ils renferment tous leurs esclaves, ceux
+les Turcs appellent _bagne_ où ils renferment tous leurs esclaves, ceux
 qui appartiennent au dey, ceux des particuliers, et ceux appelés
-esclaves de l’_almacen_, comme on dirait en Espagne de l’_ayuntamiento_;
+esclaves de l’_almacen_ comme on dirait en Espagne de l’_ayuntamiento_;
 ils sont tous employés aux travaux publics. Ces derniers ont bien de la
 peine à recouvrer leur liberté, parce qu’étant à tout le monde, et
 n’appartenant à aucun maître, ils ne savent à qui s’adresser pour
-traiter de leur rançon. Quant aux esclaves dits _de rachat_, on les
+traiter de leur rançon. Quant aux esclaves dits _de rachat_ on les
 place dans ces bagnes jusqu’à ce que leur rançon soit venue. Là ils ne
 sont employés à aucun travail, si ce n’est quand l’argent se fait trop
 attendre; car alors on les envoie au bois avec les autres, travail
@@ -12330,7 +12330,7 @@ ou trois fois, il me pria, si je voulais en avoir l’explication, de lui
 procurer de l’encre et du papier; ce que je fis. L’ayant traduit
 sur-le-champ: voici me dit-il, ce que signifie cet écrit, sans qu’il y
 manque un seul mot; je vous avertis seulement que _Lela Marien_ veut
-dire vierge Marie, et _Allah_, Dieu.
+dire vierge Marie, et _Allah_ Dieu.
 
 Tel était le contenu de cette lettre, qui ne sortira jamais de ma
 mémoire:
@@ -12340,7 +12340,7 @@ mémoire:
   _Lela Marien_. Cette esclave mourut, et je sais qu’elle n’alla point
   dans le feu éternel, mais avec Dieu; car, depuis qu’elle est morte, je
   l’ai revue deux fois, et toujours elle m’a recommandé d’aller chez
-  les chrétiens voir _Lela Marien_, qui m’aime beaucoup. De cette
+  les chrétiens voir _Lela Marien_ qui m’aime beaucoup. De cette
   fenêtre, j’ai aperçu bien des chrétiens; mais je dois l’avouer, toi
   seul parmi eux m’a paru gentilhomme. Je suis jeune et assez belle, et
   j’ai beaucoup d’argent que j’emporterai avec moi: vois si tu veux
@@ -12379,7 +12379,7 @@ En voici les propres termes, je les ai très-bien retenus, comme tout ce
 qui m’est arrivé dans mon esclavage:
 
   «Le véritable _Allah_ vous conserve, madame, et la bienheureuse _Lela
-  Marien_, la mère de notre Sauveur, qui vous a mis au cœur le désir
+  Marien_ la mère de notre Sauveur, qui vous a mis au cœur le désir
   d’aller chez les chrétiens parce qu’elle vous aime! Priez-la qu’il lui
   plaise de conduire le dessein qu’elle vous a inspiré; elle est si
   bonne qu’elle ne vous repoussera pas. Je vous promets de ma part, et
@@ -12507,7 +12507,7 @@ commerce de figues sèches. Il y retourna encore deux ou trois fois avec
 le More qu’il s’était associé. Dans chacun de ses voyages, il avait
 soin, en passant, de jeter l’ancre dans une petite cale située à une
 portée de mousquet du jardin d’Agimorato. Là il s’exerçait avec ses
-rameurs à faire la _zala_, qui est un exercice de mer, et à essayer,
+rameurs à faire la _zala_ qui est un exercice de mer, et à essayer,
 comme en jouant, ce qu’il voulait bientôt exécuter en réalité. Il allait
 même au jardin de Zoraïde demander du fruit, qu’Agimorato lui donnait
 volontiers quoiqu’il ne le connût point. Son intention, m’a-t-il dit
@@ -12542,7 +12542,7 @@ instruite que nous avions une barque.
 En conséquence, je résolus donc de faire tous mes efforts pour lui
 parler, et deux jours avant notre départ j’allai dans son jardin sous
 prétexte de cueillir des herbes. La première personne que j’y rencontrai
-fut son père, lequel me demanda en _langue franque_, langage usité dans
+fut son père, lequel me demanda en _langue franque_ langage usité dans
 toute la Barbarie, ce que je voulais et à qui j’appartenais. Je répondis
 qu’étant esclave d’Arnaute Mami, et sachant que mon maître était de ses
 meilleurs amis, je venais cueillir de la salade. Il me demanda si
@@ -12602,7 +12602,7 @@ chrétien, me dit-il, tu n’es pas à plaindre si ta maîtresse ressemble à
 ma fille, qui n’a point sa pareille dans tout Alger; regarde-la bien, et
 vois si je dis vrai. Le père de Zoraïde nous servait comme d’interprète
 dans cette conversation; car, pour elle, quoiqu’elle entendît assez bien
-la _langue franque_, elle s’expliquait beaucoup plus par signes
+la _langue franque_ elle s’expliquait beaucoup plus par signes
 qu’autrement.
 
 Sur ces entrefaites, un More, ayant aperçu quatre Turcs franchissant les
@@ -12680,7 +12680,7 @@ jardin, et, ayant ouvert la porte, nous approchâmes de la maison sans
 être vus de personne.
 
 Zoraïde nous attendait à sa fenêtre. Quand elle nous vit approcher, elle
-demanda à voix basse si nous étions _Nazarani_, ce qui veut dire
+demanda à voix basse si nous étions _Nazarani_ ce qui veut dire
 chrétiens; je lui répondis affirmativement, et qu’elle n’avait qu’à
 descendre. Ayant reconnu ma voix, elle n’hésita pas un seul instant, et,
 descendant en toute hâte, elle se montra à nos yeux si belle, si
@@ -12799,7 +12799,7 @@ terre, craignant sans cesse d’y être jetés, et tâchant de nous en
 garantir à force de rames. Mais notre bonne étoile nous fit aborder à
 une cale voisine d’un petit cap ou promontoire que les Mores appellent
 la _Cava rumia_[53], ce qui en leur langue veut dire la _mauvaise femme
-chrétienne_, parce que la tradition raconte que Florinde, cette fameuse
+chrétienne_ parce que la tradition raconte que Florinde, cette fameuse
 fille du comte Julien, qui fut la cause de la perte de l’Espagne, y est
 enterrée. Ils regardent comme un mauvais présage d’être obligé de se
 réfugier dans cet endroit, et ils ne le font jamais que par nécessité:
@@ -12808,7 +12808,7 @@ menaçait. Nous plaçâmes des sentinelles à terre, et, sans abandonner les
 rames, nous prîmes un peu de nourriture, priant Dieu de mener à bonne
 fin une entreprise si bien commencée.
 
-  [53] Le mot _cava_, signifie mauvaise, et _rumia_ veut dire
+  [53] Le mot _cava_ signifie mauvaise, et _rumia_ veut dire
   chrétienne.
 
 Pour céder aux supplications de Zoraïde, on se prépara à mettre à terre
@@ -14778,7 +14778,7 @@ qu’elles doivent être ainsi composées, parce que le public les veut
 ainsi, tandis que les pièces où l’on respecte les règles de l’art n’ont
 pour approbateurs que quelques hommes de goût, la même chose arrivera à
 mon livre; et quand je me serai brûlé les sourcils à force de travail,
-je resterai comme ce _tailleur de Campillo_, qui fournissait gratis le
+je resterai comme ce _tailleur de Campillo_ qui fournissait gratis le
 fil et la façon.
 
 Souvent j’ai entrepris de faire comprendre à ces auteurs qu’ils
@@ -14791,13 +14791,13 @@ représenta trois comédies d’un poëte espagnol qui obtinrent
 l’approbation générale; et que les comédiens y gagnèrent plus qu’ils
 n’ont gagné depuis avec trente autres des meilleurs qu’on ait composées?
 Je m’en souviens, répondit-il, vous voulez assurément parler de la
-_Isabella_, de la _Philis_ et de la _Alexandra_[57]? Justement,
+_Isabella_ de la _Philis_ et de la _Alexandra_[57]? Justement,
 répliquai-je. Hé bien, ces pièces ne sont-elles pas selon les règles? et
 pourtant elles ont enlevé tous les suffrages. La faute n’en est donc pas
 au vulgaire, qu’on laisse se plaire à voir représenter des inepties,
 mais à ceux qui ne savent lui servir autre chose. Il n’y a rien de tel
-dans l’_Ingratitude vengée_[58], dans la _Numancia_, dans le _Marchand
-amoureux_, et encore moins dans l’_Ennemi favorable_, ni dans beaucoup
+dans l’_Ingratitude vengée_[58], dans la _Numancia_ dans le _Marchand
+amoureux_ et encore moins dans l’_Ennemi favorable_ ni dans beaucoup
 d’autres pièces qui ont fait la réputation de leurs auteurs, et enrichi
 les comédiens qui les ont représentées. J’ajoutai encore bien des
 raisons qui confondirent mon homme, mais sans le faire changer
@@ -14805,9 +14805,9 @@ d’opinion.
 
   [57] Ces trois pièces sont de Lupercio Leonardo de Argensola.
 
-  [58] L’_Ingratitude vengée_ est de Lope de Vega; _Numancia_, de
-  Cervantes lui-même; le _Marchand amoureux_, de Gaspard de Aguilar, et
-  l’_Ennemi favorable_, de Francisco Tarraga.
+  [58] L’_Ingratitude vengée_ est de Lope de Vega; _Numancia_ de
+  Cervantes lui-même; le _Marchand amoureux_ de Gaspard de Aguilar, et
+  l’_Ennemi favorable_ de Francisco Tarraga.
 
 Seigneur chanoine, répondit le curé, vous venez de toucher là un sujet
 qui a réveillé dans mon esprit une aversion que j’ai toujours eue pour
@@ -15971,7 +15971,7 @@ la caisse de plomb, étaient celles-ci:
   Celui qui erra çà et là sur Rossinante,
   Gît ici sous cette pierre froide.
 
-  [60] Mot composé de _mono_, singe, et de _congo_, c’est-à-dire singe
+  [60] Mot composé de _mono_ singe, et de _congo_ c’est-à-dire singe
   du Congo, marmot, gros singe.
 
   LE PANIAQUADO[62], ACADÉMICIEN DE L’ARGAMASILLA
@@ -15998,7 +15998,7 @@ la caisse de plomb, étaient celles-ci:
   Il ne put échapper à l’amour et aux tromperies.
 
   [62] Ce mot a différentes acceptions, telles que _commensal
-  compagnon_, _partisan déclaré_, etc.
+  compagnon_ _partisan déclaré_ etc.
 
   LE CAPRICIEUX TRÈS-DISCRET ACADÉMICIEN DE L’ARGAMASILLA
   A LA LOUANGE DE ROSSINANTE,
@@ -16286,7 +16286,7 @@ prêtre, surtout quand ce prêtre ajoute à ce respectable caractère le
 titre de familier du saint-office[67]? Je le déclare ici, mon adversaire
 se trompe; car de celui qu’il prétend que j’ai voulu désigner, j’adore
 le génie, j’admire les travaux et je respecte le labeur incessant et
-honorable. Quant à mes _Nouvelles_, que cet aristarque trouve plus
+honorable. Quant à mes _Nouvelles_ que cet aristarque trouve plus
 satiriques qu’exemplaires; eh bien, qu’importe? pourvu qu’elles soient
 bonnes, et elles ne pourraient l’être s’il ne s’y trouvait un peu de
 tout.
@@ -16360,7 +16360,7 @@ finit toujours par être estimée des grands et nobles esprits.
   [68] Don Bernardo Sandoval y Rojas.
 
 Ne lui dis rien de plus, ami lecteur; quant à moi, je me contenterai de
-te faire remarquer que cette seconde partie de _Don Quichotte_, dont je
+te faire remarquer que cette seconde partie de _Don Quichotte_ dont je
 te fais hommage, est taillée sur le même patron, et qu’elle est de même
 étoffe que la première. Dans cette seconde partie, je te donne mon
 chevalier conduit jusqu’au terme de sa vie, et finalement mort et
@@ -16370,7 +16370,7 @@ d’autres prétendent encore y mettre la main. L’abondance des choses,
 même bonnes, en diminue le prix, tandis que la rareté des mauvaises les
 fait apprécier en ce point...
 
-J’oubliais de te dire que tu auras bientôt _Persiles_, que je suis en
+J’oubliais de te dire que tu auras bientôt _Persiles_ que je suis en
 train d’achever, ainsi que la seconde partie de _Galatée_.
 
 L’INGÉNIEUX CHEVALIER DON QUICHOTTE DE LA MANCHE
@@ -16463,7 +16463,7 @@ Quichotte, de peur qu’en arrivant aux oreilles de messeigneurs du
 conseil, l’honneur de l’invention ne soit aussitôt enlevé.
 
 Quant à moi, reprit le barbier, je jure devant Dieu et devant les hommes
-de n’en parler ni à roi, ni _à Roch_, ni à âme qui vive, comme il est
+de n’en parler ni à roi, ni _à Roch_ ni à âme qui vive, comme il est
 dit dans cette romance du curé[70], où l’on avise le roi de ce voleur
 qui lui avait escamoté cent doublons et sa mule qui allait si bien
 l’amble.
@@ -16751,7 +16751,7 @@ il termine brusquement son histoire par ces vers:
   [71] Médor fut laissé pour mort sur la place, en allant relever le
   cadavre de son maître. (ARIOSTE, chant XXIII.)
 
-Ces vers furent une prophétie, car les poëtes s’appellent _vates_,
+Ces vers furent une prophétie, car les poëtes s’appellent _vates_
 c’est-à-dire devins, et la prédiction s’accomplit si bien, que depuis
 lors ce fut un poëte andaloux qui chanta les larmes d’Angélique, et un
 poëte castillan qui chanta sa beauté.
@@ -16884,7 +16884,7 @@ librement et sans détour.
 Eh bien, seigneur, reprit Sancho, vous saurez que tout le monde nous
 tient, vous, pour le plus grand des fous, et moi, pour le dernier des
 imbéciles. Les hidalgos disent que Votre Grâce n’avait pas le droit de
-s’arroger le _don_, et de se faire d’emblée chevalier, avec quatre pieds
+s’arroger le _don_ et de se faire d’emblée chevalier, avec quatre pieds
 de vigne, deux journaux de terre, un fossé par devant et un par
 derrière. Quant aux chevaliers, ils sont fort peu satisfaits que les
 hidalgos se mêlent à eux, principalement ceux qui sont tout au plus bons
@@ -17924,7 +17924,7 @@ je m’explique mal, alors vous pourrez me reprendre; car je n’ai pas un
 esprit de contravention et je ne demande pas mieux qu’on m’induise?
 
 Du diable si je te comprends, repartit don Quichotte; que veux-tu dire
-avec ton _esprit de contravention_, et ton je veux bien qu’on
+avec ton _esprit de contravention_ et ton je veux bien qu’on
 _m’induise_?
 
 Un esprit de contravention, répliqua Sancho, cela veux dire un esprit
@@ -17999,7 +17999,7 @@ mains; car, croyez-le bien, je n’irai pas pour vos beaux yeux changer
 les antiques coutumes de la chevalerie errante. Vous n’avez donc qu’à
 retourner chez vous, et consulter votre Thérèse: si elle trouve bon que
 vous me serviez dans l’attente des récompenses, ainsi soit-il; si elle
-ne le veut pas, ni vous non plus, _bene quidem_, nous n’en serons pas
+ne le veut pas, ni vous non plus, _bene quidem_ nous n’en serons pas
 moins bons amis. Tant que le grain ne manquera pas au colombier, le
 colombier ne manquera point de pigeons. Cependant, je vous avertis que
 bonne espérance vaut mieux que mauvaise possession, et bonne
@@ -18309,7 +18309,7 @@ Les tombeaux des païens, répondit don Quichotte, ont été, pour la
 plupart des monuments fastueux. Les cendres de Jules César furent mises
 sous une pyramide en pierre d’une grandeur démesurée, qu’on appelle, à
 Rome, l’aiguille de Saint-Pierre, un tombeau grand comme un village,
-qu’on appelait alors _Moles Adriani_, et qui est aujourd’hui le château
+qu’on appelait alors _Moles Adriani_ et qui est aujourd’hui le château
 Saint-Ange, a servi de sépulture à l’empereur Adrien; la reine Artémise
 a fait placer le corps de son époux Mausole dans un tombeau si vaste et
 d’un travail si exquis, qu’on l’a mis au rang des sept merveilles du
@@ -18957,7 +18957,7 @@ ordinaire.
 Seigneur, répondit le diable d’une voix mielleuse et en retenant les
 rênes, nous sommes acteurs de la troupe d’Angulo le Mauvais. Ce matin,
 octave de la Fête-Dieu, nous venons de représenter derrière cette
-colline que vous voyez là-bas, la tragédie des _Cortès de la Mort_, et
+colline que vous voyez là-bas, la tragédie des _Cortès de la Mort_ et
 nous devons la jouer encore ce soir dans le village qui est devant nous:
 comme c’était tout proche, nous n’avons pas voulu quitter nos habits,
 afin de n’avoir pas la peine de les reprendre. Ce jeune homme que vous
@@ -20273,7 +20273,7 @@ chrétienne, afin que, devenus hommes, ils soient l’appui de leur
 vieillesse et l’honneur de leur postérité. Quant à étudier telle ou
 telle science, je ne suis pas d’avis de les contraindre; il vaut mieux y
 employer la persuasion; après quoi, surtout s’ils n’ont pas besoin
-d’étudier de _pane lucrando_, on fera bien de laisser se développer leur
+d’étudier de _pane lucrando_ on fera bien de laisser se développer leur
 inclination naturelle. Quoique la poésie offre plus d’agrément que
 d’utilité, c’est un art qui ne peut manquer d’honorer celui qui le
 cultive. La poésie, seigneur, est à mon sens comme une belle fille dont
@@ -20541,7 +20541,7 @@ je m’arrête, car les expressions me manquent pour te louer dignement.
   don Manuel Ponce, laissa tomber son gant exprès ou par mégarde.
   Aussitôt don Manuel s’élança dans l’enceinte l’épée à la main, et
   releva le gant de sa maîtresse. C’est à cette occasion que la reine
-  Isabelle l’appela don Manuel Ponce de _Léon_, nom que ses descendants
+  Isabelle l’appela don Manuel Ponce de _Léon_ nom que ses descendants
   ont conservé depuis; et c’est aussi pour cela que Cervantes appelle
   don Quichotte _nouveau Ponce de Léon_.
 
@@ -21071,7 +21071,7 @@ perfection. Mais de toutes ces belles choses et de bien d’autres encore
 que je passe sous silence, aucune, j’imagine, ne vaudra le spectacle que
 nous donnera le désespéré Basile.
 
-  [89] _Zapateta_, danse aux souliers. Le danseur frappe par intervalle
+  [89] _Zapateta_ danse aux souliers. Le danseur frappe par intervalle
   son soulier avec la paume de sa main.
 
 Et quel est ce Basile? demanda don Quichotte.
@@ -21924,7 +21924,7 @@ Cordoue, les taureaux de Guisando, les fontaines de Legatinos et de
 Lavapiès à Madrid, sans oublier celles du Pou, du Tuyau doré, et de la
 Prieure, le tout accompagné de métaphores et d’allégories, de façon que
 l’ouvrage soit à la fois instructif et amusant. J’en ai encore sur le
-chantier un autre que j’appelle: _Supplément à Polydore Virgile_, et qui
+chantier un autre que j’appelle: _Supplément à Polydore Virgile_ et qui
 traite de l’origine des choses: c’est un livre d’une grande érudition,
 car j’y explique toutes les questions importantes qu’avait oubliées
 Polydore. Par exemple, il n’a point dit quel est le premier homme du
@@ -22368,7 +22368,7 @@ leur apparition dans ces prairies; que je ne devais pas m’en étonner,
 parce qu’il y en avait là beaucoup d’autres, des siècles passés et
 présents, enchantées sous des figures aussi diverses qu’étranges, entre
 autres la reine Genièvre et sa duègne Quintagnone, celle qui, suivant la
-_romance_, versa du vin à Lancelot quand il revint de Bretagne.
+_romance_ versa du vin à Lancelot quand il revint de Bretagne.
 
 Lorsque Sancho entendit son maître tenir un pareil langage, il faillit
 en perdre l’esprit ou en crever de rire. Comme il savait le fin mot de
@@ -22512,7 +22512,7 @@ seigneur Durandart: _patience, et battons les cartes_; car enfin ce
 chevalier ne peut avoir connu cette expression depuis qu’il est
 enchanté, mais seulement pendant son séjour en France, sous le règne de
 cet empereur; et cela vient fort à propos pour mon _Supplément à
-Polydore Virgile_, sur l’origine des choses. Je ne crois pas qu’il ait
+Polydore Virgile_ sur l’origine des choses. Je ne crois pas qu’il ait
 encore été parlé de l’invention des cartes, et comme il était important
 de la connaître, je suis bien aise d’avoir pour garant un témoignage
 aussi grave que celui du seigneur Durandart. Le dernier avantage, enfin,
@@ -22892,7 +22892,7 @@ Maître Pierre répondit qu’il ne recevait point d’argent par avance,
 qu’il fallait attendre la réponse du singe. Il frappa deux coups sur son
 épaule gauche, le singe s’élança et s’approchant de l’oreille de son
 maître, il commença à remuer les mâchoires, comme s’il eût marmotté
-quelque chose, puis, au bout d’un _credo_, il sauta par terre. Aussitôt
+quelque chose, puis, au bout d’un _credo_ il sauta par terre. Aussitôt
 maître Pierre courut s’agenouiller devant don Quichotte, et lui
 embrassant les deux jambes:
 
@@ -23022,7 +23022,7 @@ suis persuadé qu’il nous présentera quelque chose de curieux.
 
 Comment, quelque chose! répliqua maître Pierre; dites cent mille choses;
 seigneur chevalier, il n’y a rien aujourd’hui qui mérite plus votre
-attention. Au surplus, _operibus credite, non verbis_, c’est-à-dire
+attention. Au surplus, _operibus credite, non verbis_ c’est-à-dire
 mettons la main à l’œuvre, car il se fait tard, et nous avons beaucoup
 à faire voir et à expliquer.
 
@@ -23053,7 +23053,7 @@ voici don Galiferos qui s’amuse à jouer au trictrac, ne pensant déjà
 plus à sa femme, comme le dit la romance.
 
   [99] Réminiscence du commencement du second chant de l’_Énéide_:
-  _Conticuere omnes_, etc., etc.
+  _Conticuere omnes_ etc., etc.
 
 Cet autre personnage, le plus grand de tous, couronne en tête et sceptre
 à la main, est le grand empereur Charlemagne, père putatif de la belle
@@ -23147,7 +23147,7 @@ le bruit des cloches qui retentissent dans toutes les mosquées?
 
 Oh! pour ce qui est des cloches, observa don Quichotte, maître Pierre se
 trompe lourdement: les Mores n’en ont point; ils ne se servent que de
-tambours et de timbales, et de certaines _dulzaïna_, qui ressemblent
+tambours et de timbales, et de certaines _dulzaïna_ qui ressemblent
 beaucoup à nos clairons; faire sonner les cloches à Sansuena est un
 énorme anachronisme.
 
@@ -23348,7 +23348,7 @@ SUCCÈS QU’EUT DON QUICHOTTE DANS L’AVENTURE DU BRAIMENT, QU’IL NE
 TERMINA PAS COMME IL L’AVAIT PENSÉ
 
 Cid Hamed Ben-Engeli, l’auteur de cette grande histoire, commence le
-présent chapitre par ces paroles: _Je jure comme chrétien catholique_,
+présent chapitre par ces paroles: _Je jure comme chrétien catholique_
 etc., etc. Sur quoi le traducteur fait observer qu’en jurant comme
 chrétien catholique, tandis qu’il était More (et sans aucun doute il
 l’était), cid Hamed n’a voulu dire autre chose, sinon que comme le
@@ -23485,7 +23485,7 @@ royaume, une province, une ville, une commune entière, il est manifeste
 que vous avez tort de vous mettre en campagne pour venger une offense
 qui n’existe pas. Que diriez-vous, je vous le demande, si les habitants
 de Valladolid, de Tolède ou de Madrid, se battaient à tout propos avec
-ceux qui les appellent _Cazalleros_[101], _Auberginois_, _Baleinaux_, et
+ceux qui les appellent _Cazalleros_[101], _Auberginois_ _Baleinaux_ et
 si ceux auxquels les enfants donnent de pareils surnoms s’escrimaient à
 tout bout de champ? Il ferait beau voir que ces illustres cités fussent
 toujours prêtes à prendre les armes à la moindre provocation! Non, non,
@@ -24835,7 +24835,7 @@ défendre ses droits, mais sans accabler ses sujets. Je tiens en réserve
 dans mon esprit d’autres recommandations, qui plus tard lui seront
 utiles dans le gouvernement de son île.
 
-  [103] Le texte porte _Girifaltes_, Gerfauts, oiseaux de proie.
+  [103] Le texte porte _Girifaltes_ Gerfauts, oiseaux de proie.
 
 L’entretien en était là quand il se fit un grand bruit, et Sancho tout
 effaré se précipita dans la salle, un torchon au cou pour bavette, et
@@ -26112,8 +26112,8 @@ prendre à eux, mais aux ignorants qui les louent et aux sots qui les
 croient. Si j’avais été sur mes gardes, comme doit le faire toute bonne
 gouvernante, je n’aurais pas prêté l’oreille à leurs cajoleries, ni pris
 au sérieux leurs dangereux propos; tels que ceux-ci: _je vis en
-mourant_, _je brûle dans la glace_, _j’espère sans espoir_, _je pars et
-je reste_, et tant d’autres du même genre, dont ils farcissent leurs
+mourant_ _je brûle dans la glace_ _j’espère sans espoir_ _je pars et
+je reste_ et tant d’autres du même genre, dont ils farcissent leurs
 écrits, et qu’on trouve d’autant plus beaux, qu’on les comprend moins.
 N’ont-ils pas le front de nous promettre le phénix, la toison d’or, la
 couronne d’Ariadne, l’anneau de Gigès, les pommes du jardin des
@@ -26905,7 +26905,7 @@ donne, les armes sont aussi nécessaires que les lettres, et les lettres
 que les armes.
 
 Pour la science, repartit Sancho, je n’en suis guère pourvu, car je ne
-sais pas l’A B C; mais je sais mon _Pater noster_, et c’est assez pour
+sais pas l’A B C; mais je sais mon _Pater noster_ et c’est assez pour
 être bon gouverneur; quant aux armes, je me servirai de celles qu’on me
 donnera, jusqu’à ce qu’elles me tombent des mains, et à la grâce de
 Dieu.
@@ -27264,7 +27264,7 @@ qu’avoir l’esprit et la plume sans cesse occupés d’un seul personnage,
 ne parler que par la bouche de peu de gens, c’est un travail par trop
 ingrat. Pour éviter cet inconvénient, j’avais, ajoute-t-il, usé d’un
 artifice dans la première partie, en y intercalant quelques nouvelles,
-comme celles du _Curieux malavisé_ et du _Captif_, qui sont en dehors de
+comme celles du _Curieux malavisé_ et du _Captif_ qui sont en dehors de
 l’histoire; mais ayant fait réflexion que les lecteurs, absorbés par le
 récit des prouesses de don Quichotte, n’accorderaient aucune attention
 aux _nouvelles_ et les parcourraient à la hâte, je me suis abstenu d’en
@@ -27436,7 +27436,7 @@ celui dont l’honneur ombrageux s’imagine qu’on aperçoit d’une lieue le
 rapiéçage de son soulier, la crasse de son chapeau, la corde du drap de
 son manteau et le vide de son estomac.
 
-  [113] Juan de Mena, natif de Cordoue, auteur du _Labyrinthe_, ouvrage
+  [113] Juan de Mena, natif de Cordoue, auteur du _Labyrinthe_ ouvrage
   dans lequel il avait entrepris de réunir toute la science humaine.
 
 Toutes ces réflexions vinrent à l’esprit de don Quichotte, à propos de
@@ -27584,7 +27584,7 @@ Or donc, notre gouverneur, avec tout son cortége, arriva bientôt dans un
 bourg d’environ mille habitants, qui était un des meilleurs de la
 dépendance du duc. On lui dit que c’était l’île Barataria, soit que le
 bourg s’appelât Baratorio, soit pour exprimer combien peu lui en coûtait
-le gouvernement, _barato_, signifiant bon marché. Sitôt qu’il fut arrivé
+le gouvernement, _barato_ signifiant bon marché. Sitôt qu’il fut arrivé
 aux portes du bourg, qui était entouré de bonnes murailles, les notables
 sortirent à sa rencontre, on sonna les cloches, et au milieu de
 l’allégresse générale on le conduisit en grande pompe à la cathédrale;
@@ -28013,7 +28013,7 @@ Et pourquoi? demanda Sancho.
 
 Pourquoi? répondit le médecin; parce que notre maître Hippocrate, cette
 grande lumière de la médecine, a dit dans ses aphorismes: _Omnis
-saturatio mala, perdicis autem pessima_, c’est-à-dire: «toute
+saturatio mala, perdicis autem pessima_ c’est-à-dire: «toute
 indigestion est mauvaise, et celle que cause la perdrix est la pire de
 toutes.»
 
@@ -28033,7 +28033,7 @@ podrida, dit Sancho, il ne présente sans doute aucun danger, car ces
 ollas podridas étant composées de toutes sortes de viandes, il doit s’en
 trouver au moins une qui soit bonne pour mon estomac.
 
-_Absit_, s’écria le médecin, il n’y a rien de pire au monde qu’une _olla
+_Absit_ s’écria le médecin, il n’y a rien de pire au monde qu’une _olla
 podrida_; il faut laisser cela aux chanoines, aux recteurs de colléges
 et aux noces de village; quant aux gouverneurs, on ne doit leur servir
 que des viandes délicates et sans assaisonnement. La raison en est
@@ -29845,7 +29845,7 @@ faire plaisir. Elle disait ce qui suit:
   l’épouser: les mauvaises langues disent qu’elle est enceinte de son
   fait, mais lui s’en défend comme un beau diable.
 
-  [119] _Ayuntamiento_, corps municipal.
+  [119] _Ayuntamiento_ corps municipal.
 
   «Il n’y a point chez nous d’olives cette année, et l’on ne saurait
   trouver une goutte de vinaigre dans tout le pays. Une compagnie de
@@ -30136,7 +30136,7 @@ qui appellent la soif de deux lieues. Ils s’assirent sur l’herbe, qui
 leur servit de nappe, et tous alors fournissant ce qu’ils portaient dans
 leur bissac, la place se trouva en un clin d’œil couverte de pain, de
 noix, de fromage et de quelques os où il restait encore à ronger, sans
-compter une espèce de saucisson appelé _cavial_, composé de ces œufs
+compter une espèce de saucisson appelé _cavial_ composé de ces œufs
 d’esturgeon, grands provocateurs de l’appétit. Il s’y trouva aussi des
 olives en quantité, lesquelles, quoiqu’un peu sèches, ne laissaient pas
 d’être de bon goût. Mais ce qui fit ouvrir les yeux à Sancho, c’étaient
@@ -30975,7 +30975,7 @@ Jacques, le tueur de Mores, les Espagnols ont coutume de s’écrier:
 _Saint Jacques, et ferme, Espagne[122]!_ L’Espagne est-elle ouverte,
 qu’il soit besoin de la fermer? Quelle cérémonie est-ce là?
 
-  [122] Santiago, y cierra, España. Le mot _cerrar_, qui primitivement
+  [122] Santiago, y cierra, España. Le mot _cerrar_ qui primitivement
   signifiait attaquer, veut dire aujourd’hui: fermer. C’est comme, en
   France, _Montjoie, Saint-Denis!_
 
@@ -31567,7 +31567,7 @@ son propre aveu, s’était donné cinq coups de fouet seulement, nombre
 bien minime en comparaison de ceux qu’il lui restait à s’appliquer.
 Notre amoureux chevalier en conçut un tel dépit, qu’il voulut y mettre
 ordre sur-le-champ. Si Alexandre le Grand, se disait-il, trancha le
-nœud gordien, en soutenant qu’_autant vaut couper que délier_, et
+nœud gordien, en soutenant qu’_autant vaut couper que délier_ et
 n’en devint pas moins le maître de l’Asie, pourquoi donc ne viendrais-je
 pas à bout de désenchanter Dulcinée en fouettant moi-même Sancho? Si la
 vertu du remède consiste en ce que Sancho reçoive les trois mille et
@@ -31654,7 +31654,7 @@ n’était survenu.
 C’était un homme robuste, d’environ trente-cinq ans, d’une taille haute,
 au teint brun, au regard sévère; il portait une cotte de mailles, à sa
 ceinture quatre de ces pistolets qu’en Catalogne on appelle
-_pedrenales_, et il montait un cheval de forte encolure. Voyant que ses
+_pedrenales_ et il montait un cheval de forte encolure. Voyant que ses
 écuyers (c’est le nom que se donnent entre eux les gens de cette
 profession) allaient dépouiller Sancho, il leur commanda de n’en rien
 faire: ainsi fut sauvée la ceinture. Étonné de voir une lance appuyée
@@ -32194,7 +32194,7 @@ beaucoup de richesse et d’élégance; sans qu’il s’en doutât, on lui avai
 attaché au dos, et par-dessus la houppelande, un parchemin sur lequel
 était écrit en grosses lettres: _Je suis don Quichotte de la Manche_.
 Cet écriteau arrêtait tous les passants; et comme chacun répétait: _Je
-suis don Quichotte de la Manche_, le chevalier fut surpris que tant de
+suis don Quichotte de la Manche_ le chevalier fut surpris que tant de
 gens prononçassent son nom comme s’ils le connaissaient:
 
 Seigneur, dit-il à don Antonio qui marchait à côté de lui, la chevalerie
@@ -32421,7 +32421,7 @@ héros et se divertir de ses folies, plusieurs gentilshommes de la ville
 avaient résolu de faire, à six jours de là, une course de bagues: cette
 course n’eut point lieu, pour les raisons que nous dirons par la suite.
 Dans l’intervalle il prit envie à don Quichotte de parcourir Barcelone,
-mais à pied et comme _incognito_, pour ne plus se voir poursuivi par les
+mais à pied et comme _incognito_ pour ne plus se voir poursuivi par les
 petits garçons: il sortit accompagné de Sancho, et de deux valets que
 lui donna don Antonio. Or, pendant qu’il se promenait, il lut par hasard
 sur une porte ces mots écrits en grandes lettres: IMPRIMERIE. Poussé par
@@ -32445,7 +32445,7 @@ Bagatele_ en italien.
 
 Comment rendez-vous ce mot en castillan? continua don Quichotte.
 
-_Le Bagatele_, reprit l’auteur, signifie _les Bagatelles_; et bien qu’un
+_Le Bagatele_ reprit l’auteur, signifie _les Bagatelles_; et bien qu’un
 pareil titre n’en donne pas une grande idée, ce livre ne laisse pas de
 renfermer des choses utiles et de bon goût.
 
@@ -32463,8 +32463,8 @@ Et comment le traduire autrement que par le mot _marmite_? répliqua
 celui-ci.
 
 Mort de ma vie! dit don Quichotte, je vois que vous connaissez à fond
-l’idiome toscan. Ainsi, quand il y a dans l’italien _piace_, vous le
-traduisez par _plaît_, _più_ par _plus_, _sù_ par _en haut_, et _giù_
+l’idiome toscan. Ainsi, quand il y a dans l’italien _piace_ vous le
+traduisez par _plaît_ _più_ par _plus_ _sù_ par _en haut_ et _giù_
 par _en bas_.
 
 En effet, répondit l’auteur, ce sont là les véritables équivalents.
@@ -32479,8 +32479,8 @@ des langues, ressemblent beaucoup à ces tapisseries de Flandre qui, vues
 pas dire par là que le métier de traducteur ne soit pas estimable; car
 on peut s’occuper à de pires choses et qui donnent moins de profit. Dans
 tous les cas, il faut faire une exception en faveur de deux célèbres
-traducteurs, Christoval de Figueroa, pour le _Pastor Fido_, et don Juan
-de Jauregui, pour l’_Aminta_, où l’un et l’autre ont su faire douter
+traducteurs, Christoval de Figueroa, pour le _Pastor Fido_ et don Juan
+de Jauregui, pour l’_Aminta_ où l’un et l’autre ont su faire douter
 quelle est la traduction, et quel est l’original. Mais, dites-moi, je
 vous prie, votre livre s’imprime-t-il pour votre compte, ou bien en
 avez-vous vendu le privilége à quelque libraire?
@@ -32514,7 +32514,7 @@ lumières pour tant d’aveugles.
 
 Plus loin on travaillait à un autre ouvrage; notre héros en ayant
 demandé le titre, on lui répondit que c’était _la seconde partie de
-l’ingénieux don Quichotte de la Manche_, composée par un bourgeois de
+l’ingénieux don Quichotte de la Manche_ composée par un bourgeois de
 Tordesillas.
 
 Je connais ce livre, dit-il, et je croyais qu’on l’avait fait brûler
@@ -32877,7 +32877,7 @@ voile pour le Levant.
 
 Un matin que don Quichotte, armé de toutes pièces, car, ainsi qu’on l’a
 dit maintes fois, _ses armes étaient sa parure, et ses délassements les
-combats_, était sorti pour se promener sur la plage, il vit venir vers
+combats_ était sorti pour se promener sur la plage, il vit venir vers
 lui un cavalier également armé de pied en cap, et portant un écu sur
 lequel était peinte une lune resplendissante. Quand l’inconnu se fut
 assez approché pour être entendu de notre héros, il lui dit d’une voix
@@ -33465,10 +33465,10 @@ semblables à des pieds de chandeliers, et qui, frappées l’une contre
 l’autre, rendent un son peu agréable, peut-être, mais qui se marie fort
 bien avec la cornemuse et le tambourin. Ce nom d’albogue est arabe,
 comme tous ceux de notre langue qui commencent par _al_; par exemple,
-_almoaça_, _almorzar_, _alhombra_, _alguazil_, _almaçen_ et autres
-semblables. Notre langue n’a que trois mots qui finissent en _i_,
-_borcegui_, _zaquizami_ et _maravedi_; car _alheli_ et _alfaqui_, autant
-pour l’_al_, qui est au commencement que pour l’_i_ de la fin, sont
+_almoaça_ _almorzar_ _alhombra_ _alguazil_ _almaçen_ et autres
+semblables. Notre langue n’a que trois mots qui finissent en _i_
+_borcegui_ _zaquizami_ et _maravedi_; car _alheli_ et _alfaqui_ autant
+pour l’_al_ qui est au commencement que pour l’_i_ de la fin, sont
 reconnus pour être d’origine arabe. Je dis ceci en passant, parce que le
 nom d’albogue vient de me le rappeler. Au reste, ce qui nous aidera
 surtout à pratiquer dans la perfection notre état de berger, c’est que
@@ -34287,7 +34287,7 @@ fantaisie, je vais m’éloigner.
 Sancho reprit sa tâche, et avec une telle énergie que bientôt il n’y eut
 plus autour de lui un seul arbre auquel il restât un lambeau d’écorce.
 Enfin, poussant un grand cri et frappant de toute sa force un dernier
-coup contre un hêtre: _Ici_, dit-il, _mourra Samson, et tous ceux qui
+coup contre un hêtre: _Ici_ dit-il, _mourra Samson, et tous ceux qui
 avec lui sont_.
 
 A ce coup terrible et à ce cri lamentable, don Quichotte accourut: A
@@ -34913,7 +34913,7 @@ pourront employer la somme en œuvres pies, à leur volonté;
 Item, je supplie ces seigneurs, mes exécuteurs testamentaires, si de
 fortune ils venaient à rencontrer l’auteur qui a composé, dit-on, une
 idée intitulée: _Seconde partie des aventures de don Quichotte de la
-Manche_, de le prier de ma part, avec toutes sortes d’instances, de me
+Manche_ de le prier de ma part, avec toutes sortes d’instances, de me
 pardonner l’occasion que je lui ai si involontairement donnée d’écrire
 tant et de si énormes sottises; car je quitte cette vie avec un
 véritable remords de lui en avoir fourni le prétexte.
@@ -34940,7 +34940,7 @@ ajoutant que s’il lui demandait cette attestation c’était pour empêcher
 que, contrairement à la vérité, un faux cid Hamet Ben-Engeli le
 ressuscitât, et composât sur ses prouesses d’interminables histoires.
 
-Telle fut la fin de l’_ingénieux chevalier don Quichotte de la Manche_,
+Telle fut la fin de l’_ingénieux chevalier don Quichotte de la Manche_
 dont cid Hamet ne voulut pas indiquer le pays natal, afin que toutes les
 villes et tous les bourgs de la Manche se disputassent l’insigne honneur
 de l’avoir vu naître et de le compter parmi leurs enfants, comme le
@@ -35046,7 +35046,7 @@ qu’ensuite il fut envoyé à Salamanque, qui était alors la plus célèbre
 université de l’Espagne. Il y resta deux ans et habita une rue qu’on
 appelle encore la rue des Mores (_calle de los Moros_).
 
-  [138] _Don Quichotte_, Ire partie, livre III, ch. IX.
+  [138] _Don Quichotte_ Ire partie, livre III, ch. IX.
 
 Plus tard, nous retrouvons Cervantes à Madrid chez l’humaniste Lopez de
 Hoyos. Ce Lopez, chargé par l’_Ayuntamiento_ (municipalité) de Madrid de
@@ -35058,7 +35058,7 @@ premier rang. Aussi, dans la relation des obsèques de la reine, que
 Lopez publia peu après, le mentionne-t-il avec éloge comme auteur d’une
 épitaphe en forme de sonnet, et surtout d’une élégie où le jeune poëte
 prenait la parole au nom de tous ses camarades. Encouragé par ce premier
-succès, Cervantes composa un petit poëme pastoral appelé _Filena_, puis
+succès, Cervantes composa un petit poëme pastoral appelé _Filena_ puis
 quelques sonnets et romances qui ne sont pas venus jusqu’à nous. Tels
 furent ses débuts dans la poésie.
 
@@ -35086,11 +35086,11 @@ d’obtenir quelque bonne prébende.
 
 A la suite de son puissant patron, Cervantes traversa la riche Huerta de
 Valence; il put contempler l’imposante Barcelone, qu’il appelle _la
-ville de la courtoisie, le rendez-vous des étrangers_, et pour laquelle
+ville de la courtoisie, le rendez-vous des étrangers_ et pour laquelle
 il conserva un enthousiasme qui ne s’est jamais affaibli. Les provinces
 méridionales de la France, le Languedoc et la Provence surtout, le
 frappèrent vivement, et quand, plus tard, Cervantes, revenu dans sa
-patrie, publia le poëme de _Galatée_, on put voir par le charme et la
+patrie, publia le poëme de _Galatée_ on put voir par le charme et la
 fraîcheur des descriptions combien les impressions du jeune voyageur
 avaient été vives et profondes.
 
@@ -35110,7 +35110,7 @@ Longtemps cherchés sans succès, les Turcs furent enfin rencontrés par
 les chrétiens au fond du golfe de Lépante (7 octobre 1571). L’action,
 engagée au milieu du jour, se termina par une des plus signalées
 victoires dont l’histoire fasse mention. La galère sur laquelle était
-embarqué Cervantes, appelée _la Marquesa_, chargée d’attaquer _la
+embarqué Cervantes, appelée _la Marquesa_ chargée d’attaquer _la
 Capitane_ d’Alexandrie, s’en empara ainsi que du grand étendard
 d’Égypte, et tua cinq cents hommes à l’ennemi. Quoique malade de la
 fièvre, placé, sur ses vives instances, au poste le plus périlleux avec
@@ -35134,7 +35134,7 @@ L’hôpital de Messine le reçut brisé des suites de ces deux campagnes; il
 y resta languissant près de neuf mois. Enfin, guéri de ses blessures, il
 sollicita et obtint un congé. Muni des plus hautes attestations sur son
 intelligence et sa valeur, Cervantes s’embarque dans la rade de Naples
-sur la frégate _el Sol_, et plein d’espoir d’embrasser sa famille dont
+sur la frégate _el Sol_ et plein d’espoir d’embrasser sa famille dont
 il était séparé depuis sept ans, il fait voile vers l’Espagne en
 compagnie de son frère Rodrigo, du général d’artillerie Carillo de
 Quesada, gouverneur de la Goulette, et d’autres militaires qui
@@ -35177,7 +35177,7 @@ auquel elles allaient devoir une éternelle illustration.
 
   [139] Historien et poëte espagnol.
 
-  [140] _Don Quichotte_, Ire partie, ch. XXXIX, XL, XLI.
+  [140] _Don Quichotte_ Ire partie, ch. XXXIX, XL, XLI.
 
   [141] Le Père Haedo (_Historia de Argel_).
 
@@ -35199,7 +35199,7 @@ ce nouvel essai de la profession des armes ne lui ayant valu aucune
 récompense malgré ses blessures et ses glorieux services, il abandonna
 la carrière militaire.
 
-L’amour devait le ramener au culte des Muses. Le roman de _Galatée_,
+L’amour devait le ramener au culte des Muses. Le roman de _Galatée_
 qu’il publia peu de temps après son mariage, fut composé sous
 l’inspiration de ce tendre sentiment. Sans aucun doute Cervantes, caché
 sous le nom d’Élicio, berger des rives du Tage, a voulu peindre ses
@@ -35228,7 +35228,7 @@ des malheurs effroyables qu’entraîne un siége, et surtout le poignant
 mère. Cette pièce, palpitante d’exaltation patriotique, fut jouée à
 Saragosse, pendant la dernière guerre de l’indépendance espagnole, et
 n’a pas peu contribué sans doute à rendre la nouvelle Numance digne de
-l’ancienne. «J’osai le premier dans _Numancia_, dit Cervantes,
+l’ancienne. «J’osai le premier dans _Numancia_ dit Cervantes,
 personnifier les pensées secrètes de l’âme, en introduisant des êtres
 moraux sur la scène, au grand applaudissement du public. Mes autres
 pièces furent aussi représentées; mais tout leur succès, ajoute-t-il,
@@ -35248,7 +35248,7 @@ Banni du théâtre par cette prodigieuse fécondité, Cervantes fut
 contraint d’accepter un autre métier moins digne de lui; mais il fallait
 vivre, et avec sa nombreuse famille il n’y avait pas à hésiter. Un
 certain Antonio Guevara, chargé de réunir à Séville des
-approvisionnements pour cette immense _armada_, pour cette flotte
+approvisionnements pour cette immense _armada_ pour cette flotte
 invincible qui devait envahir l’Angleterre et que détruisirent les
 tempêtes, lui offre un modeste emploi de commissaire des vivres.
 Cervantes accepte, et s’achemine aussitôt avec tous les siens vers la
@@ -35276,7 +35276,7 @@ Séville, qu’il quitta peu de temps après. Voici à quelle occasion.
 
 Une somme de 7,400 réaux, produit des comptes arriérés de son
 commissariat, avait été remise par lui à un négociant de Séville, Simon
-Freire de Lima, pour être envoyé à la _Contaduria_, trésorerie de
+Freire de Lima, pour être envoyé à la _Contaduria_ trésorerie de
 Madrid. Au lieu de remplir son mandat, Simon disparut, emportant
 l’argent. La Contaduria fit saisir les biens du banquier; puis, comme en
 même temps on avait conçu quelques doutes sur la parfaite régularité de
@@ -35322,7 +35322,7 @@ quelque temps établi sa résidence, et nous le voyons solliciteur à
 cinquante-six ans. L’indolent Philippe III régnait, mais un orgueilleux
 favori gouvernait à sa place. Cervantes s’arme de courage et, ses états
 de services à la main, il se présente à l’audience du duc de Lerme, ce
-puissant dispensateur des grâces, cet _Atlas_, comme il l’appelle, _du
+puissant dispensateur des grâces, cet _Atlas_ comme il l’appelle, _du
 poids de cette monarchie_. Là encore une déception l’attendait.
 Accueilli froidement, il est bientôt éconduit avec hauteur. Désabusé une
 fois de plus, mais non découragé, Cervantes reprit le chemin de sa
@@ -35347,7 +35347,7 @@ avec avidité, et la langue espagnole dut à Cervantes une popularité qui
 lui a longtemps survécu.
 
   [145] _Treinta mil volumenes se han impreso de mi historia_; _Don
-  Quichotte_, IIe partie, ch. XVI.
+  Quichotte_ IIe partie, ch. XVI.
 
 Nous n’entreprendrons pas, nos forces nous trahiraient, l’examen
 approfondi de ce phénomène littéraire: quelques mots seulement, avant de
@@ -35364,17 +35364,17 @@ grandeur, et donné à ses contemporains une leçon qu’ils méritaient,
 Cervantes, selon nous, voulut aussi protester contre leur ingratitude et
 se rendre enfin justice à lui-même. Ainsi que Molière cherchait à se
 consoler des caprices d’une femme égoïste et coquette, en se peignant
-sous les traits du _Misanthrope_, de même le soldat mutilé de Lépante,
+sous les traits du _Misanthrope_ de même le soldat mutilé de Lépante,
 l’héroïque captif d’Alger, l’auteur dédaigné de _Galatée_ et de
-_Numancia_, éprouvait, lui aussi, le besoin de se mettre en scène, et,
+_Numancia_ éprouvait, lui aussi, le besoin de se mettre en scène, et,
 pour unique représaille envers son siècle, de verser dans un ouvrage,
 miroir et confident de ses vicissitudes, un peu de cette ironie exempte
 d’amertume qui sied au génie méconnu. L’image d’un juste toujours bafoué
 devait lui sourire, car c’était sa propre histoire. Il se fit donc le
-héros de son livre, et, s’incarnant dans ce sublime _bâtonné_, si j’ose
+héros de son livre, et, s’incarnant dans ce sublime _bâtonné_ si j’ose
 m’exprimer ainsi, il forma de toutes ses déceptions, de toutes ses
 misères, une œuvre pleine d’ironie et de tendresse, drame à la fois
-railleur et sympathique, _comédie aux cent actes divers_, épopée
+railleur et sympathique, _comédie aux cent actes divers_ épopée
 burlesque et grave tour à tour, l’une des plus grandes créations, mais à
 coup sûr la plus originale que dans aucune langue ait produite l’esprit
 humain.
@@ -35400,7 +35400,7 @@ théâtre[146]; riche et heureux, Lope de Véga eut le bon sens de rejeter
 cette alliance, et daigna même avouer que Cervantes ne manquait _ni de
 grâce ni de style_. Moins scrupuleux, un certain Aragonais, auteur de
 quelques plates comédies, osa, sous le pseudonyme d’Avellaneda, publier
-une suite de _Don Quichotte_, dans laquelle il s’empare de l’idée du
+une suite de _Don Quichotte_ dans laquelle il s’empare de l’idée du
 livre et du personnage principal. «Nous continuons cet ouvrage, dit-il
 effrontément, avec les matériaux que Cervantes a employés pour le
 commencer, en nous aidant de plusieurs relations fidèles qui sont
@@ -35408,13 +35408,13 @@ tombées sous sa main, je dis sa main, car lui-même avoue qu’il n’en a
 qu’une...[147]» Ainsi, non content de voler Cervantes, ce plagiaire
 impudent ajoutait l’insulte à l’ironie.
 
-  [146] _Don Quichotte_, Ire partie, ch. XLVIII.
+  [146] _Don Quichotte_ Ire partie, ch. XLVIII.
 
   [147] Cervantes lui-même nous apprend que, par suite de sa blessure à
   la bataille de Lépante, il avait perdu le mouvement de la main gauche.
 
 «Cervantes, dit M. Mérimée, répondit à ses lâches adversaires par la
-seconde partie du _Don Quichotte_, au moins égale, sinon supérieure à la
+seconde partie du _Don Quichotte_ au moins égale, sinon supérieure à la
 première. Dans la préface, il combat ses ennemis en homme d’esprit et de
 bon ton; mais il est facile de voir que les injures de l’Aragonais lui
 ont été sensibles, car il y revient à plusieurs reprises, et se donne
@@ -35444,22 +35444,22 @@ Cervantes en fut médiocrement allégée[148], et pourtant on verra bientôt
 quelles expressions de touchante gratitude il trouva dans son cœur pour
 d’aussi maigres bienfaits.
 
-Trois ans avant la publication de la seconde partie de _Don Quichotte_,
+Trois ans avant la publication de la seconde partie de _Don Quichotte_
 Cervantes avait publié le recueil de ses nouvelles, composées pendant
 son séjour à Séville. Ces nouvelles, au nombre de quinze, auraient
 seules suffi à sa gloire; elles sont divisées en sérieuses (serias) et
 badines (jocosas). Il les appella Nouvelles exemplaires _Novelas
-ejemplares_, pour montrer qu’elles renferment toutes un utile et
+ejemplares_ pour montrer qu’elles renferment toutes un utile et
 agréable enseignement. On y reconnaît cet admirable talent de conteur
-qui lui a valu de la part du célèbre auteur de _Don Juan_, Tirso de
+qui lui a valu de la part du célèbre auteur de _Don Juan_ Tirso de
 Molina, le surnom de Boccace espagnol. Dans la préface de ses
 Nouvelles, Cervantes nous a laissé de lui un portrait que nous donnons
 ici; il avait 66 ans.
 
   [148] A cette époque, il fut judiciairement expulsé du logement qu’il
-  occupait à Madrid, rue du _Duc d’Albe_, au coin de San-Isidro; il se
-  réfugia dans un autre modeste réduit, rue _del Leon_, nº 20, au coin
-  de celle de _Francos_, où il mourut.
+  occupait à Madrid, rue du _Duc d’Albe_ au coin de San-Isidro; il se
+  réfugia dans un autre modeste réduit, rue _del Leon_ nº 20, au coin
+  de celle de _Francos_ où il mourut.
 
   PORTRAIT DE CERVANTES PAR LUI-MÊME.
 
@@ -35473,12 +35473,12 @@ ici; il avait 66 ans.
   état, le corps entre les deux extrêmes, ni grand ni petit, le teint
   assez animé, plutôt blanc que brun, un peu voûté des épaules et non
   fort léger des pieds; cela, dis-je, est le portrait de l’auteur de la
-  _Galatée_, de _Don Quichotte de la Manche_, et d’autres œuvres qui
+  _Galatée_ de _Don Quichotte de la Manche_ et d’autres œuvres qui
   courent le monde à l’abandon, peut-être sans le nom de leur maître. On
   l’appelle communément Miguel de Cervantes Saavedra.»
 
 Peu de temps après la publication de ses Nouvelles, il fit aussi
-paraître un petit poëme intitulé: _le Voyage au Parnasse_, dans lequel
+paraître un petit poëme intitulé: _le Voyage au Parnasse_ dans lequel
 on retrouve sa philosophie habituelle et son aimable enjouement. Dans
 cet ouvrage, il se suppose à la cour d’Apollon, et en profile pour
 passer en revue les rimeurs de son temps; presque toujours il les loue,
@@ -35530,7 +35530,7 @@ rendu à Esquivias dans la famille de sa femme; mais là, son mal empirant
 tout à coup, il demanda à revenir parmi les siens et reprit le chemin de
 sa maison, en compagnie de deux amis qui n’avaient pas voulu
 l’abandonner un seul instant. Dans le prologue de _Persiles et
-Sigismonde_, roman publié par sa veuve, en 1617, il parle presque
+Sigismonde_ roman publié par sa veuve, en 1617, il parle presque
 gaiement de sa maladie et de ses derniers jours.
 
 «Or, il advint, cher lecteur, que deux de mes amis et moi, sortant
@@ -35546,7 +35546,7 @@ croyais pas que ma bête eût sa pareille pour voyager. Sur quoi répondit
 un de mes amis: La faute est au cheval du seigneur Miguel Cervantes, qui
 a le pas fort allongé. A peine l’étudiant eut-il entendu mon nom, qu’il
 sauta à bas de sa monture; puis me saisissant le bras gauche, il
-s’écria: Oui, oui, le voilà bien ce glorieux manchot, ce _fameux tout_,
+s’écria: Oui, oui, le voilà bien ce glorieux manchot, ce _fameux tout_
 ce joyeux écrivain, ce consolateur des Muses! Moi qui en si peu de mots
 m’entendais louer si galamment, je crus qu’il y aurait peu de courtoisie
 à ne pas lui répondre sur le même ton.--Seigneur, lui dis-je, vous vous
@@ -35576,7 +35576,7 @@ prendre la présidence du conseil:
   COMTE DE LEMOS
 
   «Cette ancienne romance, qui fut célèbre dans son temps, et qui
-  commence par ces mots: _Le pied dans l’étrier_, me revient à la
+  commence par ces mots: _Le pied dans l’étrier_ me revient à la
   mémoire, hélas! trop naturellement, en écrivant cette lettre; car je
   puis la commencer à peu près dans les mêmes termes.
 

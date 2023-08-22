@@ -4,6 +4,8 @@
 
 ErgEAU est une disposition de clavier qui se veut être optimale pour le français et l'anglais. Elle est conçue pour les claviers ISO/ANSI/JIS (tous les claviers standard), mais fonctionne aussi sur les claviers orthogonaux à condition d'avoir deux touches à droite de l'auriculaire droit.
 
+![ErgEAU](./images/ErgEAU.png)
+
 ## Spécificités d'ErgEAU
 
 ### Angle Mod
@@ -83,6 +85,8 @@ ErgEAU est très bon sur ce point également, seul Optimot fait mieux mais de ma
 
 PS : Ces statistiques sont à prendre avec des pincettes car ils ont été réalisés avec [oxey](https://o-x-e-y.github.io/layouts/playground/index.html), qui ne permet pas de mettre toutes les lettres comme prévues (en plus d'être fait pour les claviers ortho). Q, W, K et Z sont omises en français, et Q, J, X et Z en anglais.
 
+Encore pire, les bad redirects qui ont un roulement extérieur sur l'annulaire et l'auriculaire ("sad" en Azerty, ou "rui" en ErgoLv5). ErgEAU en comporte très très peux : "eye" (0.011%) et "eyo" (0.002%)
+
 ### Roulements de digrammes (Rolls)
 
 Malgré les débats vis-à-vis de ce qui est le plus efficace en termes de rapidité entre les roulements et la separations des lettres qui se suivent, ErgEAU offre une quantité de roulements presque équivalente à celle Optimot et supérieure à celles d'Optim7 et Bépo.
@@ -136,7 +140,7 @@ L'ordre de placement des lettres suit relativement bien l'ordre décroissant des
 | 2.1 | O | 9  | 4  | 6  |
 | 2.2 | P | 15 | 21 | 16 |
 | 2.2 | F | 21 | 14 | 17 |
-| 2.2 | . | 25 | 25 | 26 |
+| 2.2 | , | 16 | 17 | 15 |
 | 2.3 | * | 13 | 20 | 18 |
 | 2.4 | C | 12 | 15 | 13 |
 | 2.4 | M | 14 | 13 | 14 |
@@ -144,26 +148,27 @@ L'ordre de placement des lettres suit relativement bien l'ordre décroissant des
 | 2.5 | È | 27 | 31 | 30 |
 | 2.6 | Q | 19 | 27 | 24 |
 | 2.7 | G | 22 | 18 | 19 |
-| 2.9 | , | 16 | 17 | 15 |
 | 2.9 | V | 17 | 23 | 20 |
-| 3.0 | W | 30 | 16 | 21 |
+| 2.9 | . | 25 | 25 | 26 |
 | 3.0 | Y | 28 | 19 | 23 |
-| 3.3 | K | 31 | 24 | 27 |
+| 3.0 | [J*](https://github.com/IgrecL/ergeau#corpus-sms)| 24 | 28 | 28 |
+| 3.4 | W | 30 | 16 | 21 |
 | 3.4 | B | 23 | 22 | 22 |
-| 3.4 | J | 24 | 28 | 28 |
+| 3.6 | K | 31 | 24 | 27 |
 | 3.6 | X | 26 | 26 | 29 |
-| 3.7 | Z | 29 | 29 | 31 |
+
+Comme expliqué [ici](https://github.com/IgrecL/ergeau#corpus-sms), le corpus ErgoL sous-estime J en français, il est donc pertinent de la considérer d'après les statistiques SMS comme étant au rang 23.5, ce qui justifie sa position au-dessus de W et K.
 
 ### Charges des doigts 
 
 Grâce au placement de O sur A (par opposition à la plupart des layouts français qui placent O sur E), aucun doigt n'a une charge supérieur à 20% dans les deux langues. Dans les layouts précédemment, seul ErgoL peut dire de même (mais il s'en rapproche davantage avec un 19.8% en anglais).
 
-En français, l'annulaire gauche est assez chargé puisqu'il gère E, mais étant donné qu'il monopolise la colonne comme dit précédemment (contrairement aux deux autres doigts à 14.5%), cela est moins un problème qu'il n'y paraît. 
+En français, l'annulaire gauche est assez chargé puisqu'il gère E, mais étant donné qu'il monopolise la colonne comme dit précédemment (contrairement aux deux autres doigts à 14.5%), cela est moins un problème qu'il n'y paraît. De plus, cela est nuancé [ici](https://github.com/IgrecL/ergeau#corpus-sms).
 
 ![Charge en français](./images/ChargeFR.png)
 ![Charge en anglais](./images/ChargeEN.png)
 
-Le ratio des deux mains ne dépasse pas 51% / 49% ce qui est optimal. C'était notamment un défaut de l'Optimot (EN 46.3% / 53.7%) et Bépo (EN 45.5% / 54.5%) et un gros problème de l'Optim7 (EN 43.6% / 56.4%). ErgoL quant à lui s'en sortait assez mal en français avec 54.8% / 45.2%.
+Le ratio des deux mains est parfait en français (50%/50%) et très bon en anglais. C'était notamment un défaut de l'Optimot (EN 46.3% / 53.7%) et Bépo (EN 45.5% / 54.5%) et un gros problème de l'Optim7 (EN 43.6% / 56.4%). ErgoL quant à lui s'en sortait assez mal en français avec 54.8% / 45.2%.
 
 ### Digrammes à une touche (SKB)
 
@@ -231,15 +236,26 @@ PS : Les LSB ont été calculé pour une disposition ortho, donc les résultats 
 | Redirects     | **1**  | 2        | 3       | 6     | 4    | 7         | 5      |
 | Bad Redirects | 2      | 4        | **1**   | 7     | 3    | 6         | 5      |
 | Rolls         | 5      | 7        | 4       | **1** | 6    | 2         | 3      |
-| Charges       | **1**  | 4        | 3       | 2     | 7    | 5        | 6      |
+| Charges       | **1**  | 4        | 3       | 2     | 7    | 5         | 6      |
 | SKB           | 3      | 6        | 4       | **1** | 7    | 2         | 5      |
 | DFSB/SKS      | **1**  | 2        | 5       | 4     | 3    | 7         | 6      |
 | LSB           | 2      | 3        | 5       | 4     | **1**| 7         | 6      |
 
+## Corpus SMS
+
+Le corpus d'ErgoL étant basé sur un livre, la fréquence des mots et conjugaisons relatives à la 1ère et 2e personne en français est bien plus faible qu'elle ne devrait l'être étant donnée notre utilisation des messageries et réseaux sociaux. J'ai donc récupéré un corpus de 1000 SMS corrigée en bon français depuis [ce site](http://88milsms.huma-num.fr/data4science/corpusdisponible.html), et en recorrigeant par dessus on obtient un corpus assez fiable un français écrit dans les messages (bien que pas assez rempli).
+
+![Comparaison fr-sms](images/SMS.png)
+
+On remarque également que J est BEAUCOUP plus important que dans le corpus d'ErgoL, ce qui explique pourquoi je le mette au-dessus de R.
+
+Le ratio de charge des deux mains est moins bon mais en échange le E est moins utilisé donc ça corrige le problème de la charge individuelle des doigts de la main gauche.
+
+Le SFB reste le même, mais le SKB augmente énormément sur l'index gauche avec les digrammes .. ?? !! ?! (ce qui n'est pas une mauvaise chose vu que c'est un doigt fort).
+
 ## Autres aspects intéressants d'ErgEAU
 
-- ErgEAU est relativement bon pour le japonais (cf. [Japonais](./Japonais.md))
-- ErgEAU est également assez bon dans les langues latines étant donnée la proximité avec le français
+- ErgEAU est assez bon (bien meilleur qu'Azerty en tout cas) en [espagnol](./images/Espagnol.png), en [japonais](./Japonais.md) et dans la plupart des langues latines étant donnée la proximité avec le français
 - ErgEAU est globalement potable dans les autres langues étant donnée la séparation voyelles-consonnes qui empêche SFB consonne/voyelle et les redirections
 - le SKB est minime sur tous les doigts sauf l'index gauche en français (< 0.07%), et en anglais ils sont concentrés sur les deux index
 - le placement de U est optimal car c'est la voyelle qui intéragit le moins avec , et .
@@ -247,7 +263,9 @@ PS : Les LSB ont été calculé pour une disposition ortho, donc les résultats 
 
 ## Idées rejetées :
 
+- on aurait envie de mettre W à la place de J car c'est une lettre plus importante dans le corpus d'Ergol, mais c'est expliqué [ici](https://github.com/IgrecL/ergeau#corpus-sms) pourquoi J est plus important que W
 - mettre À sous E augmente la charge de l'annulaire en plus de donner une mauvaise position à E, et puisque rien ne va avec E il vaut mieux mettre un symbole rare tel que "
 - l'inversions Z <-> J fait gagner 0.01% de SFB en français mais est moins bonne pour la répartition
-- il est possible de mettre Z sur là touche au-dessus de X pour libérer une place pour ', mais cela rend les enchaînements moins pratique qu'avec la lettre morte
+- il est possible de mettre Z sur la touche au-dessus de X pour libérer une place pour ', mais cela rend les enchaînements moins pratique qu'avec la lettre morte
 - IEAU TNSR semble optimal pour les redictions et les roulements je n'ai pas réussi à faire mieux en ANSI
+- l'inversion , <-> . car même si le . sert plus en programmation, la touche , a également ? et ! donc elle est plus importante
