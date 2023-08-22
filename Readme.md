@@ -2,7 +2,7 @@
 
 ## Introduction
 
-ErgEAU est une disposition de clavier qui se veut être optimale pour le français et l'anglais. Elle est conçue pour les claviers ISO/ANSI/JIS (tous les claviers standard), mais fonctionne aussi sur les claviers orthogonaux à condition d'avoir deux touches à droite de l'auriculaire droit. ErgEAU est également assez bon (bien meilleur qu'Azerty en tout cas) en espagnol, en japonais et dans la plupart des langues latines étant donnée la proximité avec le français.
+ErgEAU est une disposition de clavier qui se veut être optimale pour le français et l'anglais. Elle est conçue pour les claviers ISO/ANSI/JIS (tous les claviers standard), mais fonctionne aussi sur les claviers orthogonaux à condition d'avoir deux touches à droite de l'auriculaire droit. ErgEAU est également assez bon (bien meilleur qu'Azerty en tout cas) en [espagnol](./images/Espagnol.png), en [japonais](./Japonais.md) et dans la plupart des langues latines étant donnée la proximité avec le français.
 
 ![ErgEAU](./images/ErgEAU.png)
 
