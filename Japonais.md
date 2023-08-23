@@ -27,7 +27,7 @@ Les douches doublées sont un peu mieux réparties mais on en a plus sur les aur
 
 Niveau roulements Azerty est bien meilleur :
 Azerty : 18.7% / 24.8%
-ErgEAU : 8.1% / 9.8
+ErgEAU : 8.3% / 9.6%
 
 Mais en échange on a beaucoup moins de redirections (même très peu) :
 Azerty : 14.9%

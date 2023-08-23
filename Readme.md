@@ -21,9 +21,7 @@ La seule différence en ErgEAU est qu'il est légèrement plus optimisé de cliq
 
 ### Lettre morte
 
-En Azerty la touche ^ est une lettre morte : en cliquant dessus on peut obtenir la version accentuée de la prochaine lettre cliquée. Néanmoins, on peut généraliser ce concept en incluant toutes les variantes des lettres introduites par le français (à, ç, ù, œ, etc.), ce qui libère de la place pour des meilleures arrangements des lettres les plus fréquentes.
-
-De plus en ErgEAU  on place également l'apostrophe sous la lettre morte, sur la barre espace comme en ErgoL. Il en va de même pour le tiret.
+En Azerty la touche ^ est une lettre morte : en cliquant dessus on peut obtenir la version accentuée de la prochaine lettre cliquée. Néanmoins, on peut généraliser ce concept en incluant toutes les variantes des lettres introduites par le français (à, ç, ù, œ, etc.), ce qui libère de la place pour des meilleures arrangements des lettres les plus fréquentes. Qwerty-Lafayette et ErgoL font la même chose.
 
 ### Remap du Q en Qu
 
@@ -43,7 +41,7 @@ Il est plus de presque 10 fois meilleur qu'Azerty et Lafayette sur cet aspect.
 
 | Layout    | FR    | EN    | FR-EN |
 |-----------|-------|-------|-------|
-| ErgEAU    | 0.44% | 0.90% | 0.69% |
+| ErgEAU    | 0.40% | 0.89% | 0.66% |
 | Optim7    | 0.70% | 1.38% | 1.06% |
 | Optimot   | 0.84% | 1.57% | 1.22% |
 | ErgoL     | 1.36% | 1.39% | 1.37% |
@@ -76,22 +74,22 @@ ErgEAU est très bon sur ce point également, seul Optimot fait mieux mais de ma
 | Layout    | FR     | EN     | FR-EN  |
 |-----------|--------|--------|--------|
 | Optimot   | 0.105% | 0.405% | 0.255% |
-| ErgEAU    | 0.299% | 0.269% | 0.284% |
+| ErgEAU    | 0.297% | 0.246% | 0.272% |
 | Bépo      | 0.557% | 0.372% | 0.465% |
 | Optim7    | 0.254% | 0.727% | 0.491% |
 | Azerty    | 1.026% | 1.014% | 1.020% |
 | Lafayette | 1.026% | 1.033% | 1.030% |
 | ErgoL     | 2.261% | 1.969% | 2.115% |
 
-PS : Ces statistiques sont à prendre avec des pincettes car ils ont été réalisés avec [oxey](https://o-x-e-y.github.io/layouts/playground/index.html), qui ne permet pas de mettre toutes les lettres comme prévues (en plus d'être fait pour les claviers ortho). Q, W, K et Z sont omises en français, et Q, J, X et Z en anglais.
+PS : Ces statistiques sont à prendre avec des pincettes car ils ont été réalisés avec [oxey](https://o-x-e-y.github.io/layouts/playground/index.html), qui ne permet pas de mettre toutes les lettres comme prévues (en plus d'être fait pour les claviers ortho). Z, Q, J, K, W et À sont omises en français, et Z, Q, J, K et W en anglais.
 
 Encore pire, les bad redirects qui ont un roulement extérieur sur l'annulaire et l'auriculaire ("sad" en Azerty, ou "rui" en ErgoLv5). ErgEAU en comporte très très peu : "eye" (0.011%) et "eyo" (0.002%)
 
 ### Roulements de digrammes (Rolls)
 
-Malgré les débats vis-à-vis de ce qui est le plus efficace en termes de rapidité entre les roulements et la separations des lettres qui se suivent, ErgEAU offre une quantité de roulements presque équivalente à celle Optimot et supérieure à celles d'Optim7 et Bépo.
+Malgré les débats vis-à-vis de ce qui est le plus efficace en termes de rapidité entre les roulements et la separations des lettres qui se suivent, ErgEAU offre une quantité de roulements équivalente à celle Optimot et supérieure à celles d'Optim7 et Bépo.
 
-ErgEAU a été conçu avec peu de considération pour les roulements comparé aux statistiques précédentes, en prenant le parti que la séparation des lettres est meilleure ou équivalente, en plus du fait qu'elle est à l'origine de la réduction drastiques de redirections vis-à-vis des dispositions sans séparation comme ErgoL. C'est pourquoi elle a beaucoup moins de roulements qu'ErgoL, Azerty et Lafayette.
+ErgEAU a été conçu avec moins de considération pour les roulements comparé aux statistiques précédentes, en prenant le parti que la séparation des lettres est meilleure ou équivalente, en plus du fait qu'elle est à l'origine de la réduction drastiques de redirections vis-à-vis des dispositions sans séparation comme ErgoL. C'est pourquoi elle a beaucoup moins de roulements qu'ErgoL, Azerty et Lafayette.
 
 De plus, les roulements vers l'intérieur du clavier sont généralement considéré comme meilleurs. Dans le tableau suivant on a les taux de roulements intérieur et extérieur :
 
@@ -101,9 +99,9 @@ De plus, les roulements vers l'intérieur du clavier sont généralement consid�
 | Lafayette | 18.1% 19.0% | 18.5% 18.2% | 18.3% 18.6% | 36.9% |
 | Azerty    | 18.8% 18.6% | 18.4% 17.2% | 18.6% 17.9% | 36.5% |
 | Optimot   | 15.7% 10.5% | 14.1% 13.8% | 14.8% 12.2% | 27.0% |
-| ErgEAU    | 13.1% 12.8% | 12.6% 13.0% | 12.8% 12.9% | 25.7% |
-| Bépo      | 15.3% 9.1%  | 13.9% 12.0% | 14.6% 10.6% | 25.2% |
-| Optim7    | 13.4% 10.7% | 16.0% 9.7%  | 14.7% 10.2% | 24.9% |
+| ErgEAU    | 13.3% 14.2% | 12.8% 13.1% | 13.0% 13.6% | 26.6% |
+| Bépo      | 15.3% 09.1% | 13.9% 12.0% | 14.6% 10.6% | 25.2% |
+| Optim7    | 13.4% 10.7% | 16.0% 09.7% | 14.7% 10.2% | 24.9% |
 
 ### Répartition des touches (heatmap) 
 
@@ -124,40 +122,7 @@ ErgEAU a été conçu en suivant lorsque possible les poids de chaque touche en 
 
 L'ordre de placement des lettres suit relativement bien l'ordre décroissant des fréquences mais évidemment s'en éloigne pour permettre des statistiques aussi bons.
 
-|     |   | FR | EN | 50 |
-|-----|---|----|----|----|
-| 1.0 | T | 6  | 2  | 2  |
-| 1.0 | U | 8  | 12 | 9  |
-| 1.1 | A | 3  | 3  | 3  |
-| 1.1 | N | 4  | 6  | 4  |
-| 1.3 | E | 1  | 1  | 1  |
-| 1.3 | S | 2  | 8  | 5  |
-| 1.6 | I | 5  | 7  | 7  |
-| 1.6 | R | 7  | 9  | 8  |
-| 1.8 | H | 20 | 5  | 11 |
-| 1.8 | P | 15 | 21 | 16 |
-| 2.0 | L | 10 | 11 | 10 |
-| 2.1 | O | 9  | 4  | 6  |
-| 2.2 | D | 11 | 10 | 12 |
-| 2.2 | G | 22 | 18 | 19 |
-| 2.2 | Q | 19 | 27 | 24 |
-| 2.3 | * | 13 | 20 | 18 |
-| 2.4 | C | 12 | 15 | 13 |
-| 2.4 | M | 14 | 13 | 14 |
-| 2.4 | É | 18 | 30 | 25 |
-| 2.5 | È | 27 | 31 | 30 |
-| 2.6 | , | 16 | 17 | 15 |
-| 2.9 | F | 21 | 14 | 17 |
-| 2.7 | B | 23 | 22 | 22 |
-| 2.9 | . | 25 | 25 | 26 |
-| 3.0 | Y | 28 | 19 | 23 |
-| 3.0 | [J*](https://github.com/IgrecL/ergeau#corpus-sms)| 24 | 28 | 28 |
-| 3.4 | W | 30 | 16 | 21 |
-| 3.4 | V | 17 | 23 | 20 |
-| 3.6 | K | 31 | 24 | 27 |
-| 3.6 | X | 26 | 26 | 29 |
-
-Comme expliqué [ici](https://github.com/IgrecL/ergeau#corpus-sms), le corpus ErgoL sous-estime J en français, il est donc pertinent de la considérer d'après les statistiques SMS comme étant au rang 23.5, ce qui justifie sa position au-dessus de W et K.
+PS : Comme expliqué [ici](https://github.com/IgrecL/ergeau#corpus-sms), le corpus ErgoL sous-estime J en français. Néanmoins la "mauvaise" position de J est justifiée par le fait qu'elle fait très peu de digrammes avec des consonnes de la main droite, donc c'est assez pas dérangeant de la placer ici.
 
 ### Charges des doigts 
 
@@ -168,7 +133,7 @@ En français, l'annulaire gauche est assez chargé puisqu'il gère E, mais étan
 ![Charge en français](./images/ChargeFR.png)
 ![Charge en anglais](./images/ChargeEN.png)
 
-Le ratio des deux mains est presque à 50/50 en français et très bon en anglais. C'était notamment un défaut de l'Optimot (EN 46.3% / 53.7%) et Bépo (EN 45.5% / 54.5%) et un gros problème de l'Optim7 (EN 43.6% / 56.4%). ErgoL quant à lui s'en sortait assez mal en français avec 54.8% / 45.2%.
+Le ratio de charge des deux mains est assez bon (même meilleur en réalité : [explication](https://github.com/IgrecL/ergeau#corpus-sms)). C'était notamment un défaut de l'Optimot (EN 46.3% / 53.7%) et Bépo (EN 45.5% / 54.5%) et un gros problème de l'Optim7 (EN 43.6% / 56.4%). ErgoL quant à lui s'en sortait assez mal en français avec 54.8% / 45.2%.
 
 ### Digrammes à une touche (SKB)
 
@@ -196,11 +161,11 @@ Pour comparer aux autres dispositions, on calcule la somme des SKB sur les auric
 
 Étant donné qu'on a plus ou moins séparé les consonnes, les SFB ont chuté en flèche. Cependant, on peut aller plus loin : lorsqu'on écrit le mot "for" sur un clavier Azerty/Qwerty, étant donné que F et au-dessus de R, "f*r" agit comme un SFB sur la main gauche. C'est une métrique plus dur à optimiser mais tout de même très importante.
 
-Heureusement, cette fois aussi ErgEAU est meilleur que ses concurrents, presque sous la barre des 7%. À noter néanmoins que ce n'est pas la disposition optimale pour les SKS en particulier (il est possible de faire moins de 7%), mais les autres métriques semblent plus importantes.
+Heureusement, cette fois aussi ErgEAU est meilleur que ses concurrents, étant le seul sous la barre des 7%. À noter néanmoins que ce n'est pas la disposition optimale pour les SKS en particulier (il est possible de faire moins de 7%), mais les autres métriques semblent plus importantes.
 
 | Layout    | FR     | EN     | FR-EN  |
 |-----------|--------|--------|--------|
-| ErgEAU    | 6.615% | 7.389% | 7.002% |
+| ErgEAU    | 6.218% | 6.807% | 6.523% |
 | Optim7    | 6.959% | 7.685% | 7.322% |
 | Bépo      | 7.285% | 7.578% | 7.432% |
 | ErgoL     | 6.824% | 8.265% | 7.545% |
@@ -218,8 +183,8 @@ Bépo misait sur cet aspect au détriment du reste, c'est pourquoi c'est le seul
 
 | Layout    | FR     | EN     | FR-EN  |
 |-----------|--------|--------|--------|
-| Bépo      | 0.685% | 0.637% | 0.661% |
-| ErgEAU    | 1.101% | 0.960% | 1.031% |
+| Bépo      | 0.718% | 0.637% | 0.661% |
+| ErgEAU    | 1.101% | 1.614% | 1.358% |
 | Optim7    | 1.193% | 1.721% | 1.457% |
 | ErgoL     | 1.366% | 3.075% | 2.221% |
 | Optimot   | 2.039% | 3.327% | 2.683% |
@@ -247,9 +212,9 @@ Le corpus d'ErgoL étant basé sur un livre, la fréquence des mots et conjugais
 
 ![Comparaison fr-sms](images/SMS.png)
 
-On remarque également que J est BEAUCOUP plus important que dans le corpus d'ErgoL, ce qui explique pourquoi je le mette au-dessus de R.
+On remarque également que J est BEAUCOUP plus important que dans le corpus d'ErgoL.
 
-Le ratio de charge des deux mains est moins bon mais en échange le E est moins utilisé donc ça corrige le problème de la charge individuelle des doigts de la main gauche.
+Le ratio de charge des deux mains est bien meilleur, et le E est moins utilisé donc ça corrige le problème de la charge individuelle des doigts de la main gauche.
 
 Le SFB reste le même, mais le SKB augmente énormément sur l'index gauche avec les digrammes .. ?? !! ?! (ce qui n'est pas une mauvaise chose vu que c'est un doigt fort).
 
@@ -272,3 +237,4 @@ Le SFB reste le même, mais le SKB augmente énormément sur l'index gauche avec
 - l'inversion D <-> P est de prime abord meilleure vis-à-vis de l'importance des touches, mais ce placement permet d'avoir "mp" et "ld" plus facilement et on ne perd pas la facilité de frappe de "pl" grâce au fait que ANSI est staggered
 - l'inversion B <-> G permet un bien meilleur lsb mais la position de G est très mauvaise en plus de rendre ng/ng/gr/rg assez durs à faire, et on perdrait le digramme mb en roulement
 - l'inversion V <-> F est meilleure pour le français vis-à-vis de la fréquence des lettres, mais il est mieux de prioriser F pour le digramme "ff", et V ici ne produit pas un gros lsb étant donné que les deux plus gros digrammes vr/rv sont avec R sous l'auriculaire, lequel ne bouge pas avec le déplacement latéral de l'index
+- dans les versions précédentes l'apostrophe était sous la touche morte sur la barre espace comme en Lafayette/ErgoL, mais cela créait des enchaînements assez fréquents sur les mêmes doigts (qu' et même qu'u), ce qui était rédhibitoire, en plus de donner des stats globalement moins bons en plaçant le J à la place de l'apostrophe
